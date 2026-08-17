@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<goods_data idx="1">
+<cateCd>104</cateCd>
+<allCateCd><![CDATA[104]]></allCateCd>
+<goodsDisplayFl>y</goodsDisplayFl>
+<goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+<goodsSellFl>y</goodsSellFl>
+<goodsSellMobileFl>y</goodsSellMobileFl>
+<goodsState>n</goodsState>
+<goodsPermission>1</goodsPermission>
+<goodsCd><![CDATA[AZ01111102]]></goodsCd>
+<goodsNmFl>d</goodsNmFl>
+<goodsNm><![CDATA[리첼 코럴 모래제거 고양이 화장실 (퍼플)]]></goodsNm>
+<imageStorage>url</imageStorage>
+<taxFreeFl>n</taxFreeFl>
+<fixedPrice>70700</fixedPrice>
+<costPrice>54420</costPrice>
+<goodsPrice>70700</goodsPrice>
+<mainImageData idx="1"><![CDATA[]]></mainImageData>
+<deliverySno>9</deliverySno>
+<scmNo>1</scmNo>
+</goods_data>
+</data>
