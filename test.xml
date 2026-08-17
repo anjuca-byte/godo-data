@@ -3,21 +3,34 @@
 <goods_data idx="1">
 <cateCd>104</cateCd>
 <allCateCd><![CDATA[104]]></allCateCd>
+<deliverySno>9</deliverySno>
 <goodsDisplayFl>y</goodsDisplayFl>
 <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+<goodsDiscountFl>n<goodsDiscountFl>
 <goodsSellFl>y</goodsSellFl>
 <goodsSellMobileFl>y</goodsSellMobileFl>
 <goodsState>n</goodsState>
-<goodsCd><![CDATA[AZ_1786954691]]></goodsCd>
+<goodsPermission>all</goodsPermission>
+<goodsCd><![CDATA[AZ01111102]]></goodsCd>
 <goodsNmFl>d</goodsNmFl>
 <goodsNm><![CDATA[리첼 코럴 모래제거 고양이 화장실 (퍼플)]]></goodsNm>
 <imageStorage>url</imageStorage>
-<taxFreeFl>n</taxFreeFl>
 <fixedPrice>70700</fixedPrice>
 <costPrice>54420</costPrice>
 <goodsPrice>70700</goodsPrice>
-<mainImageData idx="1"><![CDATA[https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg]]></mainImageData>
-<deliverySno>9</deliverySno>
+<mainImageData idx="1"><![CDATA[https://domeatoz.com/2020/12/21/160855960819925l8nbm8bn1e7eb5js_1.jpg]]></mainImageData>
+<mileageFl>c</mileageFl>
+<optionFl>n</optionFl>
+<optionTextFl>n</optionTextFl>
+<addGoodsFl>n</addGoodsFl>
+<payLimitFl>n</payLimitFl>
+<restockFl>n</restockFl>
+<relationFl>n</relationFl>
 <scmNo>1</scmNo>
+<stockFl>n</stockFl>
+<soldOutFl>n</soldOutFl>
+<taxFreeFl>t</taxFreeFl>
+<imgDetailViewFl>n</imgDetailViewFl>
+
 </goods_data>
 </data>
