@@ -31,6 +31,10 @@
 <soldOutFl>n</soldOutFl>
 <taxFreeFl>t</taxFreeFl>
 <imgDetailViewFl>n</imgDetailViewFl>
-
+<externalVideoFl>n</externalVideoFl>
+<detailInfoDelivery>0</detailInfoDelivery>
+<detailInfoAS>0</detailInfoAS>
+<detailInfoRefund>0</detailInfoRefund>
+<detailInfoExchange>0</detailInfoExchange>
 </goods_data>
 </data>
