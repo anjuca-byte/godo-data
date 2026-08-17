@@ -21,6 +21,7 @@
 <mainImageData idx="1"><![CDATA[https://domeatoz.com/2020/12/21/160855960819925l8nbm8bn1e7eb5js_1.jpg]]></mainImageData>
 <listImageData idx="1"><![CDATA[https://domeatoz.com/2020/12/21/160855960819925l8nbm8bn1e7eb5js_1.jpg]]></listImageData>
 <detailImageData idx="1"><![CDATA[https://domeatoz.com/2020/12/21/160855960819925l8nbm8bn1e7eb5js_1.jpg]]></detailImageData>
+<zoomImageData idx="1"><![CDATA[https://domeatoz.com/2020/12/21/160855960819925l8nbm8bn1e7eb5js_1.jpg]]></zoomImageData> <!-- 확대용 이미지 추가 -->
 <mileageFl>c</mileageFl>
 <optionFl>n</optionFl>
 <optionTextFl>n</optionTextFl>
@@ -40,5 +41,6 @@
 <detailInfoExchange>0</detailInfoExchange>
 <originNm><![CDATA[일본]]></originNm>
 <goodsDescription><![CDATA[<center><IMG src='http://img.elrufun.co.kr/elrufun_shopping_mall/nto_pet_b/20200331_shp_45.jpg'></center><center><img src='http://lullu.godohosting.com/product/ss_h.jpg'></center>]]></goodsDescription>
+<goodsDescriptionFl>html</goodsDescriptionFl>
 </goods_data>
 </data>
