@@ -3,7 +3,7 @@
 <goods_data idx="1">
 <cateCd>104</cateCd>
 <allCateCd><![CDATA[104]]></allCateCd>
-<deliverySno>43</deliverySno>
+<deliverySno>44</deliverySno>
 <goodsDisplayFl>y</goodsDisplayFl>
 <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
 <goodsDiscountFl>n</goodsDiscountFl>
@@ -11,21 +11,21 @@
 <goodsSellMobileFl>y</goodsSellMobileFl>
 <goodsState>n</goodsState>
 <goodsPermission>all</goodsPermission>
-<goodsCd><![CDATA[AZ02829545]]></goodsCd>
+<goodsCd><![CDATA[AZ02683385]]></goodsCd>
 <goodsNmFl>d</goodsNmFl>
-<goodsNm><![CDATA[티볼리아머 헤드레스트쿠션 목쿠션 운전배게]]></goodsNm>
+<goodsNm><![CDATA[실리콘원판 반투명 단면접착 2T 직경140mmX3개]]></goodsNm>
 <imageStorage>url</imageStorage>
 <fixedPrice>0</fixedPrice>
-<costPrice>10183</costPrice>
-<goodsPrice>13200</goodsPrice>
-<mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/9/1757386276717ai4o5ei7h65lxvr743ln.jpg]]></mainImageData>
-<listImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/9/1757386276717ai4o5ei7h65lxvr743ln.jpg]]></listImageData>
-<detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/9/1757386276717ai4o5ei7h65lxvr743ln.jpg]]></detailImageData>
+<costPrice>46970</costPrice>
+<goodsPrice>61100</goodsPrice>
+<mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/12/1741735709729lb9g_nffhebf7v6a2sdx.jpg]]></mainImageData>
+<listImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/12/1741735709729lb9g_nffhebf7v6a2sdx.jpg]]></listImageData>
+<detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/12/1741735709729lb9g_nffhebf7v6a2sdx.jpg]]></detailImageData>
 <mileageFl>c</mileageFl>
 <optionFl>y</optionFl>
 <optionData idx="0">
 <optionNo>1</optionNo>
-<optionValue1><![CDATA[헤드레스트-분리형]]></optionValue1>
+<optionValue1><![CDATA[반투명 20도]]></optionValue1>
 <optionPrice>0</optionPrice>
 <optionViewFl>y</optionViewFl>
 <optionSellFl>y</optionSellFl>
@@ -34,8 +34,197 @@
 </optionData>
 <optionData idx="1">
 <optionNo>2</optionNo>
-<optionValue1><![CDATA[헤드레스트-일체형]]></optionValue1>
-<optionPrice>1095</optionPrice>
+<optionValue1><![CDATA[반투명 30도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[반투명 40도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[반투명 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="4">
+<optionNo>5</optionNo>
+<optionValue1><![CDATA[반투명 60도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="5">
+<optionNo>6</optionNo>
+<optionValue1><![CDATA[반투명 70도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="6">
+<optionNo>7</optionNo>
+<optionValue1><![CDATA[검정 20도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="7">
+<optionNo>8</optionNo>
+<optionValue1><![CDATA[검정 30도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="8">
+<optionNo>9</optionNo>
+<optionValue1><![CDATA[검정 40도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="9">
+<optionNo>10</optionNo>
+<optionValue1><![CDATA[검정 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="10">
+<optionNo>11</optionNo>
+<optionValue1><![CDATA[검정 60도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="11">
+<optionNo>12</optionNo>
+<optionValue1><![CDATA[검정 70도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="12">
+<optionNo>13</optionNo>
+<optionValue1><![CDATA[백색 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="13">
+<optionNo>14</optionNo>
+<optionValue1><![CDATA[빨강 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="14">
+<optionNo>15</optionNo>
+<optionValue1><![CDATA[아이보리 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="15">
+<optionNo>16</optionNo>
+<optionValue1><![CDATA[노랑 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="16">
+<optionNo>17</optionNo>
+<optionValue1><![CDATA[연두 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="17">
+<optionNo>18</optionNo>
+<optionValue1><![CDATA[청색 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="18">
+<optionNo>19</optionNo>
+<optionValue1><![CDATA[자주 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="19">
+<optionNo>20</optionNo>
+<optionValue1><![CDATA[주황 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="20">
+<optionNo>21</optionNo>
+<optionValue1><![CDATA[하늘 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="21">
+<optionNo>22</optionNo>
+<optionValue1><![CDATA[회색 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="22">
+<optionNo>23</optionNo>
+<optionValue1><![CDATA[초록 50도]]></optionValue1>
+<optionPrice>0</optionPrice>
 <optionViewFl>y</optionViewFl>
 <optionSellFl>y</optionSellFl>
 <optionCode></optionCode>
@@ -56,9 +245,9 @@
 <detailInfoAS>003001</detailInfoAS>
 <detailInfoRefund>004001</detailInfoRefund>
 <detailInfoExchange>005001</detailInfoExchange>
-<originNm><![CDATA[대한민국]]></originNm>
-<goodsDescription><![CDATA[<img src='https://maybin.speedgabia.com/maybin/2in1_cushion/B_IMG.jpg'><img src='http://maybin.speedgabia.com/maybin/0_information/personal_information.jpg'>]]></goodsDescription>
+<originNm><![CDATA[국내산]]></originNm>
+<goodsDescription><![CDATA[<center><img src='https://adonai.hgodo.com/adonai/ad101.jpg' width='780'><br><center><img src='https://adonai.hgodo.com/adonai/ad103.jpg' width='780'><br><center><img src='https://adonai.hgodo.com/adonai/a105.jpg'><br><center><img src='https://adonai.hgodo.com/industry/jajae/board/B1175460_long.jpg'width='780'><br>]]></goodsDescription>
 <goodsDescriptionFl>html</goodsDescriptionFl>
-<makerNm><![CDATA[바이미]]></makerNm>
+<makerNm><![CDATA[협력업체]]></makerNm>
 </goods_data>
 </data>
