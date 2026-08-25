@@ -11,16 +11,16 @@
     <goodsSellMobileFl>y</goodsSellMobileFl>
     <goodsState>n</goodsState>
     <goodsPermission>all</goodsPermission>
-    <goodsCd><![CDATA[AZ01324529]]></goodsCd>
+    <goodsCd><![CDATA[AZ02869543]]></goodsCd>
     <goodsNmFl>d</goodsNmFl>
-    <goodsNm><![CDATA[여름 신상 인기 도자기 접시 플레이팅 원형 접시 반찬 그릇 16cm 4P]]></goodsNm>
+    <goodsNm><![CDATA[여름 신상 인기 럭셔리 트리 오너먼트 5p(행운의새) XB]]></goodsNm>
     <imageStorage>url</imageStorage>
     <fixedPrice>0</fixedPrice>
-    <costPrice>32130</costPrice>
-    <goodsPrice>41800</goodsPrice>
-    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1652429512245kgtxyljev4k25wgl99x8.jpg]]></mainImageData>
-    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1652429512245kgtxyljev4k25wgl99x8.jpg]]></listImageData>
-    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1652429512245kgtxyljev4k25wgl99x8.jpg]]></detailImageData>
+    <costPrice>10402</costPrice>
+    <goodsPrice>13500</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17625683815177xqq3mx0co9ovmhii4v_.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17625683815177xqq3mx0co9ovmhii4v_.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17625683815177xqq3mx0co9ovmhii4v_.jpg]]></detailImageData>
     <mileageFl>c</mileageFl>
     <optionFl>n</optionFl>
     
@@ -39,9 +39,9 @@
     <detailInfoAS>003001</detailInfoAS>
     <detailInfoRefund>004001</detailInfoRefund>
     <detailInfoExchange>005001</detailInfoExchange>
-    <originNm><![CDATA[국내산]]></originNm>
-    <goodsDescription><![CDATA[<img src='http://ai.esmplus.com/m2korea9731/0703/zzz.jpg'><img src='http://ai.esmplus.com/sinwooinc9/in/less.jpg'><img src='https://gi.esmplus.com/u2people/shin/les0513/d65.jpg' />]]></goodsDescription>
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://ai.esmplus.com/esmgb01/notice/H01.jpg' /></center><center><img src=https://mgb001.shopon.biz/data/goods_img/goods_img/GDI/1367752/1367752.jpg></center><center><img src='https://ai.esmplus.com/esmgb01/notice/F01.jpg' /></center>]]></goodsDescription>
     <goodsDescriptionFl>html</goodsDescriptionFl>
-    <makerNm><![CDATA[신한피엔에프]]></makerNm>
+    <makerNm><![CDATA[트리]]></makerNm>
     </goods_data>
     </data>
