@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01459029]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[라세티 프리미어 자동차 와이퍼 세트 600mm450mm_ZYXJG]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>4251</costPrice>
+    <goodsPrice>5500</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_16844712744581zoxxxh9psqy7s69zsj2.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_16844712744581zoxxxh9psqy7s69zsj2.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_16844712744581zoxxxh9psqy7s69zsj2.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[바겐 하이브리드 와이퍼]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_02.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_03.gif' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_04.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_05.gif' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_06.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_07.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_08.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/A09.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/a_10-1.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/HHH.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/KKK.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/GG.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/SSANG.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/CCC.jpg' /><br /><img src='https://ai.esmplus.com/kjcpn/dj/bargain/wiper/RRR.jpg' /><br />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[바겐]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>0002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
