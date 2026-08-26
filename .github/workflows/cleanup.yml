@@ -1,0 +1,15 @@
+name: Cleanup XML files
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # 매달 1일 실행
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          git rm -f *.xml || true
+          git config user.name "cleanup-bot"
+          git config user.email "cleanup@example.com"
+          git commit -m "Monthly cleanup of XML files" || true
+          git push
