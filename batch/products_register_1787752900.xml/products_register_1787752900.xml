@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02221446]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[올뉴크루즈 모기방충망 캠핑 차박 햇빛가리개_46ocd]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>9855</costPrice>
+    <goodsPrice>12800</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17144408255157zfa4yq7e5cyx4x8zmuf.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17144408255157zfa4yq7e5cyx4x8zmuf.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17144408255157zfa4yq7e5cyx4x8zmuf.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[승용 1열 2P]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[승용 2열 2P]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[SUV 1열 2P]]></optionValue1>
+<optionPrice>1095</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[SUV 2열 2P]]></optionValue1>
+<optionPrice>1095</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<center> <img src='https://ai.esmplus.com/maybin7/maybin_/sunshade_mosquito_net_00.gif' /><center> <img src='https://ai.esmplus.com/maybin7/BUYME/buyme.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[바이미]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    </goods_data>
+    </data>
