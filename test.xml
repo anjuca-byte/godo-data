@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03026414]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[자외선 차단 1인용 비치 슬리핑 텐트 캠핑 야외 차양막 그늘막_NQzFH]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>25840</costPrice>
+    <goodsPrice>33600</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1780774898825frf02yeg6lnft3hbkekn.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1780774898825frf02yeg6lnft3hbkekn.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1780774898825frf02yeg6lnft3hbkekn.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[1인용]]></optionValue1><optionValue2><![CDATA[옐로우]]></optionValue2>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[1인용]]></optionValue1><optionValue2><![CDATA[그린]]></optionValue2>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <payLimitFl>n</payLimitFl>
+    <restockFl>n</restockFl>
+    <relationFl>n</relationFl>
+    <scmNo>1</scmNo>
+    <stockFl>n</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <taxFreeFl>t</taxFreeFl>
+    <imgDetailViewFl>n</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[
+<center><p align='center'><img src='https://haisai.ownerclan.com/663/detail/11499.jpg' width=860><BR></center>
+<br />
+
+
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[쏘투스토리]]></makerNm>
+    </goods_data>
+    </data>
