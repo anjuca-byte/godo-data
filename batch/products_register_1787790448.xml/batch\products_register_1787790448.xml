@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01121052]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[화장품 용기 세트 로션 크림 케이스 보관 용기 3p_WMDZ9]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>2629</costPrice>
+    <goodsPrice>3400</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1609908139645lt2ia2thrfhvrtgyxx4a.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1609908139645lt2ia2thrfhvrtgyxx4a.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1609908139645lt2ia2thrfhvrtgyxx4a.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[한국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='http://gi.esmplus.com/sinwoo9731/0107/atzintro1.jpg'/></center><P style='MARGIN: 0px' align=center><IMG src='http://ishopping.speedgabia.com/201301/13_7_16_5.jpg'></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[지에프리빙]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="2">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01475599]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[차량방향제 자동차방향제 카디퓨져 세트 40ml+40ml 10종택1_xB9TT]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>17810</costPrice>
+    <goodsPrice>23200</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1685637387349xvdzzs2cpfdvsnkml48c.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1685637387349xvdzzs2cpfdvsnkml48c.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1685637387349xvdzzs2cpfdvsnkml48c.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[라벤더]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[레드자몽]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[레몬유칼립투스]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[목련]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="4">
+<optionNo>5</optionNo>
+<optionValue1><![CDATA[복숭아]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="5">
+<optionNo>6</optionNo>
+<optionValue1><![CDATA[블랙체리]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="6">
+<optionNo>7</optionNo>
+<optionValue1><![CDATA[아쿠아체리블라썸]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="7">
+<optionNo>8</optionNo>
+<optionValue1><![CDATA[제주녹차]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="8">
+<optionNo>9</optionNo>
+<optionValue1><![CDATA[제주한라봉]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="9">
+<optionNo>10</optionNo>
+<optionValue1><![CDATA[피톤치드]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[고양시]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='http://herbnature.imghost.cafe24.com/imanager/THS_40+40mlHyanggimaeulCarSet_1.jpg'></p></center><center><p><img src='http://herbnature.imghost.cafe24.com/imanager/THS_40+40mlHyanggimaeulCarSet_2.jpg'></p></center><center><p><img src='http://herbnature.imghost.cafe24.com/imanager/THS_40+40mlHyanggimaeulCarSet_3.jpg'></p></center><center><p><img src='http://herbnature.imghost.cafe24.com/imanager/THS_40+40mlHyanggimaeulCarSet_4.jpg'></p></center><center><p><img src='http://lullu.godohosting.com/product/hbdm_1.jpg'></p></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[더허브샵]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="3">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02118281]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[부착용 메모 포켓패드A5 (연두) 8838_PZqno]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>4380</costPrice>
+    <goodsPrice>5700</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1709615797526ejzwhcjula0iogk4e5h7.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1709615797526ejzwhcjula0iogk4e5h7.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1709615797526ejzwhcjula0iogk4e5h7.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%ED%8F%AC%EC%BC%93%ED%8C%A8%EB%93%9C/8838.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[아트사인]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="4">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02383118]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[부착식 차량 휴지통_nj5Oz]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>164</costPrice>
+    <goodsPrice>200</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1717562644058_1v7bd7k885_j5w3uhvf.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1717562644058_1v7bd7k885_j5w3uhvf.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1717562644058_1v7bd7k885_j5w3uhvf.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[핑크]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[오렌지]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[블루]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<div style='text-align: center;' align='center'><img src='https://gi.esmplus.com/qkfgo456/%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80/%EB%B6%80%EC%B0%A9%EC%8B%9D%EC%B0%A8%EB%9F%89%ED%9C%B4%EC%A7%80%ED%86%B5.jpg'></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[두비두바]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="5">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02951822]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[스퀘어 쉐입 데일리 숄더백 HH-G85_v9gGU]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>10950</costPrice>
+    <goodsPrice>14200</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1760690161929qjq9wostge_4ex6ow17b.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1760690161929qjq9wostge_4ex6ow17b.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1760690161929qjq9wostge_4ex6ow17b.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[아이보리]]></optionValue1><optionValue2><![CDATA[FREE]]></optionValue2>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[핑크]]></optionValue1><optionValue2><![CDATA[FREE]]></optionValue2>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[FREE]]></optionValue2>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<p><center><img src='http://ai.esmplus.com/goshh1103/HH-G85.jpg'></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[JH컴퍼니]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="6">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01515519]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[열동형과부하계전기 MT-32 2H 1.3 A(1.3A~1.6A)_ftMh8]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>20823</costPrice>
+    <goodsPrice>27100</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1691022772597pvlerb_2a1popd5v7uy3.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1691022772597pvlerb_2a1popd5v7uy3.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1691022772597pvlerb_2a1popd5v7uy3.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[*제품특징
+ - 주위온도를 자동으로 보상하는 바이메탈이 기본으로 내장
+ - 트립기구부는 트립자유 방식으로 되어있음
+<br>
+*제품용도
+ - 전동기를 과부하, 결상 및 구속으로부터 보호하는데 적합
+<br>
+*주의사항
+ -1.3A ~ 1.6A<br><br><br><center><p><img src='https://vitsonimg.co.kr/images/productsNew/23/23281.png'></p></center><center><p><img src='https://vitsonimg.co.kr/images/products/23281 (2)1.JPG'></p></center><center><p><img src='https://vitsonimg.co.kr/images/products/23281 (3).JPG'></p></center><center><p><img src='https://vitsonimg.co.kr/images/products/23281 (4).JPG'></p></center><center><p><img src='https://vitsonimg.co.kr/images/products/23281 (5).JPG'></p></center><center><p><img src='https://vitsonimg.co.kr/images/products/23281 (6).jpg'></p></center><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 30px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>제원구분</td><td style='width: 65%;'>제원정보</td></tr><tr style='height: 35px;'><td>국적</td><td>한국</td></tr><tr style='height: 35px;'><td>사이즈_외형(mm)</td><td>45*75*90mm</td></tr><tr style='height: 35px;'><td>사이즈_타공(mm)</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>재질</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>인증번호</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>모델명</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>유통기한</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>A/S 기간</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>기타1</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>기타2</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>기타3</td><td>상세페이지 참조</td></tr><tr style='height: 35px;'><td>기타4</td><td>상세페이지 참조</td></tr></tbody></table>&nbsp;</center><br><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 50px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>고시구분</td><td style='width: 65%;'>고시정보</td></tr><tr style='height: 35px;'><td>품명 및 모델명</td><td>열동형과부하계전기/MT- 32 2H 1.3 A</td></tr><tr style='height: 35px;'><td>인증</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>제조국</td><td>국산</td></tr><tr style='height: 35px;'><td>제조</td><td>LS</td></tr><tr style='height: 35px;'><td>A/S 책임자/전화번호</td><td>제원 및 간단설명 참고</td></tr></tbody></table></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[LS]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="7">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02152602]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[무선센서 경보기 문고리 호출 감지 현관 방범 문종_izkWk]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>29340</costPrice>
+    <goodsPrice>38100</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_171126644499880kfuotr8e2ah6q5p68t.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_171126644499880kfuotr8e2ah6q5p68t.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_171126644499880kfuotr8e2ah6q5p68t.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<CENTER><FONT color=#FFFFFF size=1>무선경보기/무선센서경보기/경보기/무선감지기/도어벨</FONT><BR><BR><CENTER><FONT color=#000000 size=5></FONT></CENTER><BR><BR><center><img src='http://gi.esmplus.com/apasoo/dmark/sionbell/02.jpg'></center><BR><BR><CENTER><FONT color='#FFFFFF' size='1'>잠금 방범 출입문 알림벨 호출 센서 창문 문고리 안전 신호 현관 문종 경보 감지 방문자 무선센서 경보기</FONT></CENTER>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[시온전자]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="8">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01500180]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[G70 나파가죽 논슬립 실리콘 핸들커버_TTgCT]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>27250</costPrice>
+    <goodsPrice>35400</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1689594909518h3gl9q69onk6sy3tfai8.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1689594909518h3gl9q69onk6sy3tfai8.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1689594909518h3gl9q69onk6sy3tfai8.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[블랙 블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[그레이 블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[그레이 그레이]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[브라운 브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="4">
+<optionNo>5</optionNo>
+<optionValue1><![CDATA[브라운 블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[대한민국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://maybin.speedgabia.com/maybin/handle_cover_napa/IMG2.jpg' /><center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[메이빈]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="9">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02831241]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[대원190 또깨비 핸드블랜더 핸디블렌더 방망이믹서기_HAhNH]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>42920</costPrice>
+    <goodsPrice>55800</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1711956331843ugraux021om7tohd1l60.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1711956331843ugraux021om7tohd1l60.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1711956331843ugraux021om7tohd1l60.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내|경기|안산시]]></originNm>
+    <goodsDescription><![CDATA[<p align=center><img src=http://b2ber.cafe24.com/wdome/OFDd303_m.jpg></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[대원]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="10">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02103026]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[갤럭시S24 핸드폰케이스 안정적그립감 가죽/헌트다이어리/SM-S921_3Wc96]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>7049</costPrice>
+    <goodsPrice>9200</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1708410205146rcico18s1oeghg05k3t0.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1708410205146rcico18s1oeghg05k3t0.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_1708410205146rcico18s1oeghg05k3t0.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[레드]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[네이비]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>n</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>999</stockCnt>
+</optionData>
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<div style='text-align: center;' align='center'><img src='http://lullu.godohosting.com/product/feel_1.jpg' border='0'></div><center><center><p><img src='http://img.feelmoa.com/upload/mall/20220622_150933_169.jpg'></p><br></center><center><img src='http://lullu.godohosting.com/product/feel.jpg' border='0'></center></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[feelmoa]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="11">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02017428]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[충전용 후라시 LED손전등 낚시 해루질 경비원 후레쉬_sSkkv]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>21250</costPrice>
+    <goodsPrice>27600</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17060576620530sap0zxwp13tmwn3st4k.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17060576620530sap0zxwp13tmwn3st4k.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://raw.githubusercontent.com/anjuca-byte/godo-data/main/processed_17060576620530sap0zxwp13tmwn3st4k.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://shop-phinf.pstatic.net/20220713_172/1657664999646KMHV1_JPEG/dlfkCEDs06.jpg?type=w860'>
+<center><img src='https://shop-phinf.pstatic.net/20220713_26/1657664999665fs6d3_JPEG/HP5L_MAIN_03.jpg?type=w860'>
+<center><img src='https://shop-phinf.pstatic.net/20220713_85/1657664999669Pzjt2_JPEG/HP5L_MAIN_05.jpg?type=w860'>
+<center><img src='https://shop-phinf.pstatic.net/20220713_99/1657665025260lbIjv_JPEG/HP5L_MAIN_08.jpg?type=w860'>
+<center><img src='https://shop-phinf.pstatic.net/20220713_66/1657665025251SLHoG_JPEG/HP5L_MAIN_09.jpg?type=w860'>
+<center><img src='https://shop-phinf.pstatic.net/20220713_172/1657665025278t0Xt2_JPEG/HP5L_MAIN_10.jpg?type=w860'>
+<center>서치라이트,해루질렌턴,충전용led손전등,led충전용후레쉬,충전렌턴,후레시,후래쉬,충전작업등,충전식후레쉬,휴대용LED
+
+</center></center></center></center></center></center></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[EDOME]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
