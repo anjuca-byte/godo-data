@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02118455]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[사각 금색 스탠드꽂이 A3 4780]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>76100</costPrice>
+    <goodsPrice>98900</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/3/5/17096159579012e4ycusglimsj38n19_y.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/3/5/17096159579012e4ycusglimsj38n19_y.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/3/5/17096159579012e4ycusglimsj38n19_y.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_1.jpg'><br><img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_2.jpg'><br><img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_3.jpg'><br><img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_4.jpg'><br><img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_5.jpg'><br><img src='https://gi.esmplus.com/sprite1115/%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4/%EC%8A%A4%ED%83%A0%EB%93%9C%EC%82%AC%EC%9D%B8/%EC%9D%BC%EB%B0%98%EC%8A%A4%ED%83%A0%EB%93%9C/4780_6.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[아트사인]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
