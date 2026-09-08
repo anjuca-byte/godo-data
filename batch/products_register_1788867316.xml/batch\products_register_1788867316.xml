@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02944782]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[퀼트 만들기재료 원단 면20수 로즈]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>10753</costPrice>
+    <goodsPrice>14000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/26/17693922815683bk8aie1b4ho5s4m0g81.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/26/17693922815683bk8aie1b4ho5s4m0g81.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/26/17693922815683bk8aie1b4ho5s4m0g81.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[한국 일본 중국]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'> <img src='https://ai.esmplus.com/myzzz5758/won.jpg'></p><p style='margin: 0px; text-align:center;'>소재 : 면20수&nbsp;</p><p style='margin: 0px; text-align:center;'><br></p><p style='margin: 0px; text-align:center;'>사이즈: 가로106cm*세로90cm</p><p style='margin: 0px; text-align:center;'>&nbsp;</p><p class='clipboard-paste' style='margin: 0px; text-align:center;'><span>DTP-디지털 텍스타일 프린팅은</span></p><p class='clipboard-paste' style='margin: 0px; text-align:center;'><span>일반적인 나염 본염과는 달리 원화의 터치감과 표현을 그대로 재연하고</span></p><p style='text-align:center;'><span>색상표현의 제한이 없는 최고급 프린팅 시스템입니다.</span></p><p style='margin: 0px; text-align:center;'>&nbsp;</p><p class='clipboard-paste' style='margin: 0px; text-align:center;'><span>소잉에 좋은 원단으로 100%의 &nbsp;부드러운 면에 20수 두께로 재직한 코튼 원단입니다</span>&nbsp;</p><p class='clipboard-paste' style='margin: 0px; text-align:center;'><br></p><p style='margin: 0px; text-align:center;'><span>침구류,쿠션,패브릭액자,소품,애완용품과,</span><span>&nbsp;</span></p><p style='margin: 0px; text-align:center;'><span>에이프런,손수건,스카프빔,의류 등 홈패션&amp;어페럴에적합</span>&nbsp;</p><p style='margin: 0px; text-align:center;'><span>연령 구분없이 남녀노소 모두가 좋아할만한 부드러운 DTP코튼과 즐거운 소잉을 함께하세요,</span></p><p class='clipboard-paste' style='margin: 0px; text-align:center;'><br></p><p style='margin: 0px; text-align:center;'>- 화면상 보여지는 색상과 실제색상은 다소 차이가 있을수 있습니다.<br>- 제품 수령 후 수량/상태를 꼭 확인해주세요.<br>재단,세탁을 하시면 교환 및 반품이 어렵습니다.<br><br>-가로폭은 고정이며, 롤에서 컷팅되어 판매되는 반제품으로 교환반품이 불가한 상품입니다.<br>-정확한 색상 및 재질은 상담원과 충분한 상담후 구매를 부탁드립니다.<br><br><br>&nbsp;</p><center><p><img src='https://wondannara.co.kr/shopimages/dgkand/20250118174701phpRIreD0.jpg'></p></center><center><p><img src='https://wondan.diskn.com/v7O4Bqd1pw'></p></center><center><p><img src='https://wondan.diskn.com/z7O4BqddCV'></p></center><center><p><img src='https://wondan.diskn.com/r7O4Bqdqmj'></p></center><center><p><img src='https://wondan.diskn.com/A7O4BqdDtG'></p></center><p align='center'> <img src='https://ai.esmplus.com/myzzz5758/won2.jpg'></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[자재마켓]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
