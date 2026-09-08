@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[49992235]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[허리띠 가방 작업용 허리 파우치 벨트 휴대폰 주머니]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>3900</costPrice>
+    <goodsPrice>5400</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo>100006</purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/09/18/1726667976A84FD0558919DBCDAE43F5/1726667976A84FD0558919DBCDAE43F5_img_150?hash=7a41001a2d97257541841628e36f8bd3]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/09/18/1726667976A84FD0558919DBCDAE43F5/1726667976A84FD0558919DBCDAE43F5_img_150?hash=7a41001a2d97257541841628e36f8bd3]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/09/18/1726667976A84FD0558919DBCDAE43F5/1726667976A84FD0558919DBCDAE43F5_img_150?hash=7a41001a2d97257541841628e36f8bd3]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[세로형-연브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9939</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[세로형-진브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9904</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[세로형-블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9818</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[세로형-블루]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9914</stockCnt>
+</optionData>
+<optionData idx="4">
+<optionNo>5</optionNo>
+<optionValue1><![CDATA[가로형-연브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9878</stockCnt>
+</optionData>
+<optionData idx="5">
+<optionNo>6</optionNo>
+<optionValue1><![CDATA[가로형-진브라운]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9827</stockCnt>
+</optionData>
+<optionData idx="6">
+<optionNo>7</optionNo>
+<optionValue1><![CDATA[가로형-블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9671</stockCnt>
+</optionData>
+<optionData idx="7">
+<optionNo>8</optionNo>
+<optionValue1><![CDATA[가로형-블루]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9920</stockCnt>
+</optionData>
+    <originNm><![CDATA[수입산_아시아_중국]]></originNm>
+    <goodsDescription><![CDATA[<p align="center">
+<img src="https://ai.esmplus.com/dayazmall/image/product/title_1.jpg">
+<img src="https://ai.esmplus.com/dayazmall/image/product/title_2.jpg">
+<img src="https://ai.esmplus.com/dayazmall/image/product/1083/1083.jpg">
+</p>
+<br />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[중국OEM]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
