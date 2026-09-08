@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02661956]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[대화엠피 고추맛기름 275g X 24개 고추씨기름 중식]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>101440</costPrice>
+    <goodsPrice>131900</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/2/19/1739946281488b3ekgvq_lcyv_q4ij6w3.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/2/19/1739946281488b3ekgvq_lcyv_q4ij6w3.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/2/19/1739946281488b3ekgvq_lcyv_q4ij6w3.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='https://gi.esmplus.com/fmsi1101/food/%EB%B0%B0%EB%84%88/domeFoodNotice.jpg' /><br><img src='https://gi.esmplus.com/fmsi1101/food/FOSJ_171676_2.jpg'><br><img src='https://gi.esmplus.com/fmsi1101/food/%EB%B0%B0%EB%84%88/dome_bottom.jpg' /></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[대화엠피]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
