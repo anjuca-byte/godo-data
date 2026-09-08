@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[51574993]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[남성 여행 보조백 어반 컴팩트 패션힙색 슬링백 HS40]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>10080</costPrice>
+    <goodsPrice>14100</goodsPrice>
+    <mainImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/11/11/17313057323EE483CA83A2FB0BDCD7F4/17313057323EE483CA83A2FB0BDCD7F4_img_150?hash=3c370817ec11a7da234d820e4030383b]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/11/11/17313057323EE483CA83A2FB0BDCD7F4/17313057323EE483CA83A2FB0BDCD7F4_img_150?hash=3c370817ec11a7da234d820e4030383b]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2024/11/11/17313057323EE483CA83A2FB0BDCD7F4/17313057323EE483CA83A2FB0BDCD7F4_img_150?hash=3c370817ec11a7da234d820e4030383b]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[수입산_아시아_중국]]></originNm>
+    <goodsDescription><![CDATA[<center>
+<div><img src="https://www.simpleinside.co.kr/shop/eunbin/page/intro2.jpg" alt="인트로"></div>
+<div><img src="https://hickieskorea.cafe24.com/shop/sohee/fashion/021 sling bag HS40.jpg" alt="상세페이지"></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[HICKIES]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
