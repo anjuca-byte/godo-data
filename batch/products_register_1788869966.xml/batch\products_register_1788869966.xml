@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02613754]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[반묶음 헤어 왕머리 꽈배기 집게삔 머리핀 집게 대형]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>1905</costPrice>
+    <goodsPrice>2500</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/11/17365883882344k4hdfpwjq07z6h2k5po.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/11/17365883882344k4hdfpwjq07z6h2k5po.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/11/17365883882344k4hdfpwjq07z6h2k5po.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[그레이]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="1">
+    <optionNo>2</optionNo>
+    <optionValue1><![CDATA[브라운]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="2">
+    <optionNo>3</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/verdino677/wholesale1/hycom/detail_images/HYCOMB7F706.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[중국 OEM]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
