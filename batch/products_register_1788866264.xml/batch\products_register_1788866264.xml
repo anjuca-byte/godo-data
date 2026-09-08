@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01325359]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[이쿼녹스 핸들커버 바겐소프트 팔쿠션 목쿠션]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>20050</costPrice>
+    <goodsPrice>26100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2022/5/18/1652842176989e5kefcnp1zirxa0uy400.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2022/5/18/1652842176989e5kefcnp1zirxa0uy400.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2022/5/18/1652842176989e5kefcnp1zirxa0uy400.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_top_01.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_top_02.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_handle_01.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_handle_02.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_handle_03.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_neck_01.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_neck_02.jpg' />
+<img src='https://ai.esmplus.com/kjcpn/nr/bargain/soft/img2/soft_arm.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[바겐]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
