@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[64524986]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[소프츠 힙색 크로스백 가방 스포츠 여행 힙슬링백 크로스 바디 메신져백 슬링백 여행 허리가방]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>2600</costPrice>
+    <goodsPrice>3600</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo>5</purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/17/1776386560B4FB55D3FE17CC7D08FB6F/1776386560B4FB55D3FE17CC7D08FB6F_img_150?hash=b89f555946135ff1c456ca1f6c0e053c]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/17/1776386560B4FB55D3FE17CC7D08FB6F/1776386560B4FB55D3FE17CC7D08FB6F_img_150?hash=b89f555946135ff1c456ca1f6c0e053c]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/17/1776386560B4FB55D3FE17CC7D08FB6F/1776386560B4FB55D3FE17CC7D08FB6F_img_150?hash=b89f555946135ff1c456ca1f6c0e053c]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[블랙]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>175</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[옐로우]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>77</stockCnt>
+</optionData>
+    <originNm><![CDATA[수입산_아시아_중국]]></originNm>
+    <goodsDescription><![CDATA[<div style="text-align: center;"><img src="https://gi.esmplus.com/jke031313/%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1/001.jpg" style="font-size: 1em;"></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[제이케이엔터테인먼트]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
