@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[64648363]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[데이지 플라워 니트 메쉬 숄더백 여성 그물가방 봄여름 데일리 토트백 KK1038]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>5009</costPrice>
+    <goodsPrice>7000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매매]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/21/1776746776FE9E20D198FEEF5737A023/1776746776FE9E20D198FEEF5737A023_img_150?hash=cda627ae046a1a4760d77391359b4789]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/21/1776746776FE9E20D198FEEF5737A023/1776746776FE9E20D198FEEF5737A023_img_150?hash=cda627ae046a1a4760d77391359b4789]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2026/04/21/1776746776FE9E20D198FEEF5737A023/1776746776FE9E20D198FEEF5737A023_img_150?hash=cda627ae046a1a4760d77391359b4789]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[01 심플 아이보리]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9917</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[02 심플 베이지]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9926</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[03 플라워 아이보리]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9881</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[04플라워 베이지]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>9872</stockCnt>
+</optionData>
+    <originNm><![CDATA[수입산_아시아_중국]]></originNm>
+    <goodsDescription><![CDATA[<div style="text-align: center;"><img src="https://images002.sabangnet.co.kr/v1/AUTH_63599845f0db471682fd9b55ff0c7ce9/image/1776746720993.png" border="0" style="font-size: 1em;"></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[KLAND]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
