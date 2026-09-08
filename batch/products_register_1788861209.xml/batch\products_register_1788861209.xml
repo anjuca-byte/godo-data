@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[33048360]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[킹받는 쓸모없는 선물 뱃살 힙색 신박한 웃긴 무쓸모 기발한 필요없는 물건 인싸템 팬싸템]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>9000</costPrice>
+    <goodsPrice>12600</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo>5</purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2023/01/23/16744606500D27E95DEC7A9656ECEA7D/16744606500D27E95DEC7A9656ECEA7D_img_150?hash=11f1c79e3d3abcd22b74f4831bfc5377]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2023/01/23/16744606500D27E95DEC7A9656ECEA7D/16744606500D27E95DEC7A9656ECEA7D_img_150?hash=11f1c79e3d3abcd22b74f4831bfc5377]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://cdn1.domeggook.com/upload/item/2023/01/23/16744606500D27E95DEC7A9656ECEA7D/16744606500D27E95DEC7A9656ECEA7D_img_150?hash=11f1c79e3d3abcd22b74f4831bfc5377]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+<optionNo>1</optionNo>
+<optionValue1><![CDATA[뱃살 얇은털]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>99884</stockCnt>
+</optionData>
+<optionData idx="1">
+<optionNo>2</optionNo>
+<optionValue1><![CDATA[뱃살 굵은털]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>99960</stockCnt>
+</optionData>
+<optionData idx="2">
+<optionNo>3</optionNo>
+<optionValue1><![CDATA[복근]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>99968</stockCnt>
+</optionData>
+<optionData idx="3">
+<optionNo>4</optionNo>
+<optionValue1><![CDATA[섹시힙 청바지]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>99994</stockCnt>
+</optionData>
+<optionData idx="4">
+<optionNo>5</optionNo>
+<optionValue1><![CDATA[섹시힙 미니스커트]]></optionValue1>
+<optionPrice>0</optionPrice>
+<optionViewFl>y</optionViewFl>
+<optionSellFl>y</optionSellFl>
+<optionCode></optionCode>
+<stockCnt>99991</stockCnt>
+</optionData>
+    <originNm><![CDATA[수입산_아시아_중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/001.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/002.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/003.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/004.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/005.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/006.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/007.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/008.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/009.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/010.jpg' /><br />
+<img src='https://ai.esmplus.com/rooin0316/20230123%20%EB%B1%83%EC%82%B4%ED%9E%99%EC%83%89/011.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[중국OEM]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
