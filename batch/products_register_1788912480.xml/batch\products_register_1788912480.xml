@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01522655]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[공장등 LED 고효율 MEGA 200W 주광 KS]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>0</fixedPrice>
+    <costPrice>79860</costPrice>
+    <goodsPrice>103800</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/7/16914040388277b4o895ozqmi_9qidgrf.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/7/16914040388277b4o895ozqmi_9qidgrf.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/7/16914040388277b4o895ozqmi_9qidgrf.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[모델명 : GDXL1028-Y20065A<br>*제품특징   -갓이 필요없는 High Bay 공장등 -IP65등급과 긴 수명시간(25000hr)으로 품질우수 -사용가능온도 : -20℃~50℃ -선길이 60CM<br>*제품용도  -창고, 공장, 상가, 체육시설 등 다용도로 사용<br>*주의사항 -전자식 스위치 사용시 잔불 현상이 일어날 수 있음.- 높이 10M이상 설치시 하자에 대해서는 유상 A/S처리 됩니다<br><br><br><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (13).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (2).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (3).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (4).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (5).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (6).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (7).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (8).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (9).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (10).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (11).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (12).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/60096 (1).jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/60/6009660096.png'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/87/19-0456.png'></p>&nbsp;</center><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 30px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>제원구분</td><td style='width: 65%;'>제원정보</td></tr><tr style='height: 35px;'><td>국적</td><td>중국</td></tr><tr style='height: 35px;'><td>인증번호</td><td>KS / 19-0456</td></tr><tr style='height: 35px;'><td>LED 다이오드 칩</td><td>중국</td></tr><tr style='height: 35px;'><td>안정기</td><td>해당사항없음(AC타입)</td></tr><tr style='height: 35px;'><td>색온도 (K)</td><td>6500</td></tr><tr style='height: 35px;'><td>사이즈_외형(mm)</td><td>365*77</td></tr><tr style='height: 35px;'><td>사이즈_타공(mm)</td><td>해당사항없음</td></tr><tr style='height: 35px;'><td>전력소비 (W)</td><td>200</td></tr><tr style='height: 35px;'><td>광효율(lm/w)</td><td>110</td></tr><tr style='height: 35px;'><td>연색성  (Ra)</td><td>80</td></tr><tr style='height: 35px;'><td>정격광속 (lm)</td><td>22000</td></tr><tr style='height: 35px;'><td>역률</td><td>0.9</td></tr><tr style='height: 35px;'><td>추천램프</td><td>해당사항없음</td></tr><tr style='height: 35px;'><td>A/S 기간</td><td>5년</td></tr><tr style='height: 35px;'><td>IP등급</td><td>IP65</td></tr><tr style='height: 35px;'><td>전자파적합번호</td><td>R-R-ZYL-GDXL1028-Y200</td></tr><tr style='height: 35px;'><td>모델명</td><td>GDXL1028-Y20065A</td></tr><tr style='height: 35px;'><td>효율등급</td><td>등기구 제67899호</td></tr></tbody></table>&nbsp;</center><br><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 50px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>고시구분</td><td style='width: 65%;'>고시정보</td></tr><tr style='height: 35px;'><td>품명 및 모델명</td><td>공장등 LED/200W AC ★주광★ KS</td></tr><tr style='height: 35px;'><td>인증</td><td>KS / 19-0456</td></tr><tr style='height: 35px;'><td>제조국</td><td>중국</td></tr><tr style='height: 35px;'><td>제조</td><td>메가맨</td></tr><tr style='height: 35px;'><td>A/S 책임자/전화번호</td><td>일신비츠온 / 1588-8970</td></tr></tbody></table></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[메가맨]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
