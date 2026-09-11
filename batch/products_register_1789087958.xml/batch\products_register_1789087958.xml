@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>n</goodsSellFl>
+    <goodsSellMobileFl>n</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02982415]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오피스 문구 (모나미)패브릭마카 470 에메랄드그린]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>1000</fixedPrice>
+    <costPrice>766</costPrice>
+    <goodsPrice>1000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/25/17744234695799rw8r9jpo2xhbv2gcr29.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/25/17744234695799rw8r9jpo2xhbv2gcr29.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/25/17744234695799rw8r9jpo2xhbv2gcr29.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://jhmungu.hgodo.com/jhd/139542.jpg'></p></br></center><center><img src='http://lullu.godohosting.com/product/jhmg_1.jpg'></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[모나미]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="2">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02879021]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[바겐슈타이거 과도 스텐 과일칼 식도 나이프 주방칼]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>17000</fixedPrice>
+    <costPrice>13100</costPrice>
+    <goodsPrice>17000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/11/18/1763442410317s2y1bwmf2l605f_dplix.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/11/18/1763442410317s2y1bwmf2l605f_dplix.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/11/18/1763442410317s2y1bwmf2l605f_dplix.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[과도]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='http://gi.esmplus.com/sinwoo9731/0107/atzintro1.jpg'><img src='https://ai.esmplus.com/sinwoo9731/iik0425/d6.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[보탬]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="3">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>47</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02586380]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[택배박스 200x100x100mm 240장]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>61200</fixedPrice>
+    <costPrice>47080</costPrice>
+    <goodsPrice>61200</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768433876590pk_uufrusr90mtqqnxrk.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768433876590pk_uufrusr90mtqqnxrk.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768433876590pk_uufrusr90mtqqnxrk.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://adonai.hgodo.com/adonai/ad101.jpg' width='780'><br><center><img src='https://adonai.hgodo.com/adonai/ad102.jpg' width='780'><br><center><img src='https://adonai.hgodo.com/adonai/ad103.jpg' width='780'><br><center><img src='https://adonai.hgodo.com/industry/jajae/packing/box/B0009321_long.jpg'width='780'><br>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[박스도매]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="4">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03017044]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[케이툴 생활공구 접목도칼날 CKB-2 20mm 올파]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>9100</fixedPrice>
+    <costPrice>7008</costPrice>
+    <goodsPrice>9100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/25/1779695846428lu1dzrxr3azg1ntawtbj.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/25/1779695846428lu1dzrxr3azg1ntawtbj.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/25/1779695846428lu1dzrxr3azg1ntawtbj.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://gong9nara.hgodo.com/notice/notice_C.jpg'></p></br></center><center><p><img src='http://fs.arumnet.com/image/N3190METAL/item/8806379290750/contents/접목도_d.jpg'></p></br></center><center><p><img src='http://gong9nara.hgodo.com/notice/notice_B.jpg'></p></br></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[상세정보별도표기]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="5">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ00879164]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[T형플러그소켓 5/8inchx530MM]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>31100</fixedPrice>
+    <costPrice>23921</costPrice>
+    <goodsPrice>31100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/15773538809831j3z_81_97lv8ow9xgic.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/15773538809831j3z_81_97lv8ow9xgic.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/15773538809831j3z_81_97lv8ow9xgic.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://domeatoz.com/2019/12/26/15773538809831j3z_81_97lv8ow9xgic.jpg'></p></center><div style='text-align: center;' align='center'><img src='http://gong9nara.hgodo.com/s_image/200-6965.jpg' border='0'><hr style='margin-bottom: 50px ;height:0;border-top: 1px solid #eee;box-sizing: content-box;display: block;'></hr><h5 style='margin-bottom: 10px;font-weight: 400;margin-top: 0;color: #333;font-size: 18px;line-height: 1.1;'>원산지</h5>- 원산지 : 대만<br />- 영문명 : T-HANDLE WRENCH WITH SPARK PLUG SOCKET <img src='http://gong9nara.hgodo.com/notice/notice_A.jpg' border='0'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[지니어스]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="6">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02693777]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[완성품S.H.피규아트 캡틴아메리카 어벤져스인피니티워]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>524100</fixedPrice>
+    <costPrice>403170</costPrice>
+    <goodsPrice>524100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/23/1742707543628juojuy5ig4e6ei7wxqir.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/23/1742707543628juojuy5ig4e6ei7wxqir.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/23/1742707543628juojuy5ig4e6ei7wxqir.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내|경기|파주시]]></originNm>
+    <goodsDescription><![CDATA[
+<center><p><img src='https://ai.esmplus.com/momomomo/Notice/Moto.jpg'><br></p><p><B>오더 메이드 제품 특성 상, 주문 접수 후, 2~6영업일 이후 발송됩니다</B><br></p><img title='013858_900a.jpg' src='https:https://cdn.bnkrmall.co.kr/asiscontent/editor/images/20181031122403.jpg'><p><br></p>
+<p><br></p>
+<img src='https://ai.esmplus.com/betelgeusu/Model/BANDAI/KC_For_Adult.jpg' />
+<p><br></p>
+<p><br></p><p><img src='https://ai.esmplus.com/momomomo/Notice/CS_Center.jpg'><br></p></center>
+<br />
+
+
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[BANDAI]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="7">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03002797]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[LX 냉장고시트지 소프트아이보리 AZRES131 헤라세트]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>7500</fixedPrice>
+    <costPrice>5803</costPrice>
+    <goodsPrice>7500</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/23/1695447667188k_65sjonc0w2c08lkzq4.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/23/1695447667188k_65sjonc0w2c08lkzq4.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/23/1695447667188k_65sjonc0w2c08lkzq4.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[122cm x 50cm]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='http://ai.esmplus.com/imi31707/LX-H/LX-T.jpg'><br> <p align='center'><img src='http://ai.esmplus.com/imi31707/LX-H/LX-T-1.jpg'><br> <p align='center'><img src='https://ai.esmplus.com/imi31707/LX-T/1/RES131main.jpg'><br></p> <p align='center'><img src='https://ai.esmplus.com/imi31707/LX-T/LX.jpg'><br></p> <p align='center'><img src='http://gi.esmplus.com/hoonny1004/LX/si.jpg'><br></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[LX하우시스]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="8">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01499653]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[비누 벽걸이 받침대 홀더 비누받침 Z17023]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>3100</fixedPrice>
+    <costPrice>2409</costPrice>
+    <goodsPrice>3100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/7/17/1689521936735v9hp_uayecl85t9j9uhm.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/7/17/1689521936735v9hp_uayecl85t9j9uhm.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/7/17/1689521936735v9hp_uayecl85t9j9uhm.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[A 흰색]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="1">
+    <optionNo>2</optionNo>
+    <optionValue1><![CDATA[B 검정]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="2">
+    <optionNo>3</optionNo>
+    <optionValue1><![CDATA[C 청색+황색]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<center><br><img src='https://ai.esmplus.com/bibga78/wz/header01.jpg'><br><br><center><br>오후3시까지 주문건 당일 발송되는 제품입니다.<br><br><center><br><img src='https://ai.esmplus.com/bibga78/wz/wz17/WZ17023A_b1.jpg'><center><img src='https://ai.esmplus.com/bibga78/wz/wz17/WZ17023A_b2.jpg'><center><br>대량주문시 추가배송비 발생되므로 판매자에게 문의 부탁드립니다.<br><br>배송이 되지않으면 판매자에게 문의 바라며<br>품절시 상품 수입 통관 재입고까지 1~2주정도 소요됩니다.<br><br><center><br><img src='https://ai.esmplus.com/bibga78/wz/footer01.jpg'><br><br>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[비브가]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="9">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02417667]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[스니커즈 운동화 블랙 화이트 남여공용 커플 신발]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>23000</fixedPrice>
+    <costPrice>17730</costPrice>
+    <goodsPrice>23000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/18/1721276009452eex8t6_qb2opemlzdw30.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/18/1721276009452eex8t6_qb2opemlzdw30.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/18/1721276009452eex8t6_qb2opemlzdw30.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[230mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="1">
+    <optionNo>2</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[235mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="2">
+    <optionNo>3</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[240mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="3">
+    <optionNo>4</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[245mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="4">
+    <optionNo>5</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[250mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="5">
+    <optionNo>6</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[255mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="6">
+    <optionNo>7</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[260mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="7">
+    <optionNo>8</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[265mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="8">
+    <optionNo>9</optionNo>
+    <optionValue1><![CDATA[화이트]]></optionValue1><optionValue2><![CDATA[270mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="9">
+    <optionNo>10</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[230mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="10">
+    <optionNo>11</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[235mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="11">
+    <optionNo>12</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[240mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="12">
+    <optionNo>13</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[245mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="13">
+    <optionNo>14</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[250mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="14">
+    <optionNo>15</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[255mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="15">
+    <optionNo>16</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[260mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="16">
+    <optionNo>17</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[265mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+<optionData idx="17">
+    <optionNo>18</optionNo>
+    <optionValue1><![CDATA[블랙]]></optionValue1><optionValue2><![CDATA[270mm]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='https://gi.esmplus.com/ace10con/DM/ST_CC455.jpg'><br><img src='https://gi.esmplus.com/ace10con/stnote.jpg'></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[에스컴퍼니 협력사]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="10">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02700748]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[곰돌이와 함께하는 포근한 겨울 수면 양말 6켤레]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>22400</fixedPrice>
+    <costPrice>17210</costPrice>
+    <goodsPrice>22400</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/5/1743864061422z3k2ewlmc8i5iipm2t4j.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/5/1743864061422z3k2ewlmc8i5iipm2t4j.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/5/1743864061422z3k2ewlmc8i5iipm2t4j.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<center><br><img src='https://ai.esmplus.com/bibga78/header01.jpg'><br><br><center><br>오후1시까지 주문건 당일 발송되는 제품입니다.<br><br><center><img src='https://ai.esmplus.com/bibga78/sb01/hn02/b002745/b002745_b1.jpg'><center><img src='https://ai.esmplus.com/bibga78/sb01/hn02/b002745/b002745_b2.jpg'><center><img src='https://ai.esmplus.com/bibga78/sb01/hn02/b002745/b002745_b3.jpg'><center><br>제조국 : 중국<br>대량주문시 추가배송비 발생되므로 판매자에게 문의 부탁드립니다.<br><br>2-3일 이내에 상품 배송이 되지않으면 판매자에게 배송 문의 부탁드리며<br>품절시 상품 해외수입 재입고까지 1-2주 정도 소요됩니다.<br><br><center><br><img src='https://ai.esmplus.com/bibga78/footer01.jpg'><br><br>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[샐코]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="11">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02576235]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[현관 마스크 열쇠 걸이 벽 후크 고리 3p 그린 혼합]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>1700</fixedPrice>
+    <costPrice>1314</costPrice>
+    <goodsPrice>1700</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/13/1731473467172udvi5vjg_6ykz3d3v9ls.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/13/1731473467172udvi5vjg_6ykz3d3v9ls.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/13/1731473467172udvi5vjg_6ykz3d3v9ls.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='https://viopapa.diskn.com/v/new/info_5.jpg'><br><br><br><br><br><br><br><br><br><br><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_1.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_2.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_3.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_4.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_5.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_6.jpg'><p align='center'><img src='https://viopapa.diskn.com/v/2023/LT/vio_LT_00230115_op_7.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[LV]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="12">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02899404]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[이천도자기 노바 화이트 양식 소스볼 7cm 식기 그릇 플레이트 디저트]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>7800</fixedPrice>
+    <costPrice>6022</costPrice>
+    <goodsPrice>7800</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/3/1764718314269js3jhj7owide3pwccorg.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/3/1764718314269js3jhj7owide3pwccorg.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/3/1764718314269js3jhj7owide3pwccorg.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/1.jpg'></div>
+
+<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/2.jpg'></div>
+
+<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/3.jpg'></div>
+
+<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/4.jpg'></div>
+
+<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/5.jpg'></div>
+
+<div style='text-align: center;'><img src='https://ai.esmplus.com/qlqjqlql/%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C/%EC%9D%B4%EC%A7%84%EC%83%B5/%EB%85%B8%EB%B0%94/%ED%99%94%EC%9D%B4%ED%8A%B8%20%EC%86%8C%EC%8A%A4%EB%B3%BC/9.jpg'></div>
+
+<p><img src='https://ai.esmplus.com/qlqjqlql/%EB%A0%88%EC%9D%B4%ED%94%BC%EC%96%B4%EC%A0%80%EC%9E%91%EA%B6%8C-crop.jpg' style='margin-left:auto; margin-right:auto'></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[RP_01]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="13">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01332510]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[원스톱 목돌림 수도꼭지]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>15600</fixedPrice>
+    <costPrice>11966</costPrice>
+    <goodsPrice>15600</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2022/6/15/1655273711298xbqaby2b347r4xs5cxf9.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2022/6/15/1655273711298xbqaby2b347r4xs5cxf9.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2022/6/15/1655273711298xbqaby2b347r4xs5cxf9.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명참조]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='http://fs.arumnet.com/image/N3190METAL/item/8806379128435/contents/수도꼭지원스톱목돌림_d.jpg'></p></br></center><center><img src='http://gong9nara.hgodo.com/notice/notice_A.jpg' border='0'></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[상세설명참조]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="14">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01451145]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[남자속옷 6163 남성 드로즈 블랙 L 모달팬티]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>5200</fixedPrice>
+    <costPrice>4022</costPrice>
+    <goodsPrice>5200</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/5/8/1683489077735qwnhlcil_asl0393qsdv.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/5/8/1683489077735qwnhlcil_asl0393qsdv.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/5/8/1683489077735qwnhlcil_asl0393qsdv.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/bibga88/ngz/WZ06163A/WZ06163A_b1.jpg'><p align='center' style='text-align: center;'><span style='font-size: 1pt; color: rgb(255, 255, 255);'> 드로즈팬티,남성드로즈,남자드로즈,남성드로즈팬티,남성사각팬티,사각드로즈,남자팬티,남성팬티,남자속옷,남성속옷,빅사이즈,남자팬티세트,드로즈세트,학생팬티,남자친구선물,모달팬티,면사각팬티,남자사각팬티,남자면팬티,남자드로즈팬티,심리스팬티,스판팬티,데일리팬티,순면팬티,편안한,사계절용,무난한컬러,세련된핏감,면스판,심플한디자인,이지핏,사각팬티 </span></p><img src='https://ai.esmplus.com/bibga88/ngz/WZ06163A/WZ06163A_b2.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[비브가]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="15">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03012124]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[국산 목재용 수동 대패 코너 다듬기 커터날 포함]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>22100</fixedPrice>
+    <costPrice>16970</costPrice>
+    <goodsPrice>22100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/21/1779323809150a2rqlfmcivxinr1e26yi.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/21/1779323809150a2rqlfmcivxinr1e26yi.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/5/21/1779323809150a2rqlfmcivxinr1e26yi.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명참조]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://westck80.diskn.com/09farm/ALPHA/CHULMA/DIYGG/DAPAE/CP116KPAGE.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[GS(OEM)]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="16">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>46</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02936355]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[렌치볼트 유두 티타늄 M12x35mm 10개]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>144300</fixedPrice>
+    <costPrice>111030</costPrice>
+    <goodsPrice>144300</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768430959830euwhjc8tapyc69102brd.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768430959830euwhjc8tapyc69102brd.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/1/15/1768430959830euwhjc8tapyc69102brd.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://adonai.hgodo.com/adonai/a101.jpg'><br><center><img src='https://adonai.hgodo.com/industry/jajae/steel/B1935600_long.jpg'width='780'><br>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[협력업체]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="17">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02717962]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[김앤김 김도둑 The 맛있는 김가루 1kg]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>53700</fixedPrice>
+    <costPrice>41280</costPrice>
+    <goodsPrice>53700</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/29/1745887103727ykj26snx_y7w_krne1fk.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/29/1745887103727ykj26snx_y7w_krne1fk.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/4/29/1745887103727ykj26snx_y7w_krne1fk.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명표기]]></originNm>
+    <goodsDescription><![CDATA[<center> <br> <img src='https://ai.esmplus.com/damter2/%EC%83%81%EC%84%B8%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%A4%91%EC%9A%94%20%EC%82%AD%EC%A0%9C%EA%B8%88%EC%A7%80/%EB%8B%B4%ED%84%B0%EB%8B%A4%EB%B0%A9%20%EC%83%81%EC%84%B8%EA%B8%B0%EB%B3%B8/%EC%83%81%EC%84%B8%ED%86%B5%ED%95%A9%20NEW%20%EC%98%A4%EB%84%88%EC%9A%A9.jpg'><center> <br> <center><center><img src='https://ai.esmplus.com/damter2/%EC%83%81%EC%84%B8%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%A4%91%EC%9A%94%20%EC%82%AD%EC%A0%9C%EA%B8%88%EC%A7%80/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B0%9C%EC%A3%BC/new/%EA%B9%80%EC%95%A4%EA%B9%80%20%EA%B9%80%EB%8F%84%EB%91%91%20The%20%EB%A7%9B%EC%9E%88%EB%8A%94%20%EA%B9%80%EA%B0%80%EB%A3%A8%201kg%20%EC%83%81%EC%84%B8.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[김앤김]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="18">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02853769]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[고양이 하우스 반려동물 동굴형 쿠션 겨울침대]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>24500</fixedPrice>
+    <costPrice>18880</costPrice>
+    <goodsPrice>24500</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/10/18/17607818901423gcvvv1bmrhp83dwmnza.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/10/18/17607818901423gcvvv1bmrhp83dwmnza.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/10/18/17607818901423gcvvv1bmrhp83dwmnza.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/paranstore79/500/detail_images/PP00FFX4IB.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[중국 OEM]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="19">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02909933]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[올뉴 마티즈 차량 맞춤형 앞유리커버 성에방지덮개 햇빛가리개]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>42000</fixedPrice>
+    <costPrice>32300</costPrice>
+    <goodsPrice>42000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/19/1766106565987hlyhjdt4n2vbt05e1sek.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/19/1766106565987hlyhjdt4n2vbt05e1sek.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/19/1766106565987hlyhjdt4n2vbt05e1sek.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[C05_올뉴마티즈]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[국내산]]></originNm>
+    <goodsDescription><![CDATA[<p></p><center><img src='http://ai.esmplus.com/gtglobal1/GTlivinglife%20intro/860_GTlivinglife_intro_200306.jpg'></center><center><img src='http://gi.esmplus.com/gtglobal1/cover/Four-season-windscreen-cover.jpg'></center><center><img src='https://gi.esmplus.com/kjcpn00/BM/GTcover/001.jpg' /></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[지티글로벌]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="20">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ00881476]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[알루미늄파이프렌치 18inch (450MM)]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>51700</fixedPrice>
+    <costPrice>39770</costPrice>
+    <goodsPrice>51700</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/29/1577606203609sda7cpi_lzv9f9j0gbmj.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/29/1577606203609sda7cpi_lzv9f9j0gbmj.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/29/1577606203609sda7cpi_lzv9f9j0gbmj.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://domeatoz.com/2019/12/29/1577606203609sda7cpi_lzv9f9j0gbmj.jpg'></p></center><div style='text-align: center;' align='center'><img src='http://gong9nara.hgodo.com/s_image/104-0582.jpg' border='0'><hr style='margin-bottom: 50px ;height:0;border-top: 1px solid #eee;box-sizing: content-box;display: block;'></hr><h5 style='margin-bottom: 10px;font-weight: 400;margin-top: 0;color: #333;font-size: 18px;line-height: 1.1;'>특징</h5>관을 돌려 조인트나 기타부품과 체결 혹은 해체시 사용. 손잡이 재질에 따라 스틸.알루미늄으로 구분. 관을 집어 풀고 조이는 공구 수도관 가스관등의 배관공사에 주로 사용 머리부분재질:SCM440 손잡이재질:A1 AC 4C<hr style='margin-bottom: 50px ;height:0;border-top: 1px solid #eee;box-sizing: content-box;display: block;'></hr><h5 style='margin-bottom: 10px;font-weight: 400;margin-top: 0;color: #333;font-size: 18px;line-height: 1.1;'>원산지</h5>- 원산지 : 한국<br />- 영문명 : AL PIPE WRENCH <img src='http://gong9nara.hgodo.com/notice/notice_A.jpg' border='0'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[세신]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="21">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02754242]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[더블핸들 민물낚시 베이트릴 베스]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>56600</fixedPrice>
+    <costPrice>43570</costPrice>
+    <goodsPrice>56600</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/6/10/1749552218684zc18u4c0fawukxul_6q0.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/6/10/1749552218684zc18u4c0fawukxul_6q0.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/6/10/1749552218684zc18u4c0fawukxul_6q0.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<CENTER><img src='https://ai.esmplus.com/htechnic/WIDFIS/E_KAMO3000.jpg' /><br><p align='center' style='font-size: 12px; color: #777777; display: block; margin: 20px 0;'>본 제품을 구매하시면 원활한 배송을 위해 꼭 필요한 고객님의 개인정보를 (성함, 주소, 전화번호 등) 택배사 및 제 3업체에서 이용하는 것에 동의하시는 것으로 간주됩니다.<br> 개인정보는 배송 외의 용도로는 절대 사용되지 않으니 안심하시기 바랍니다. 안전하게 배송해 드리겠습니다.</p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[S FISHING]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="22">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02303740]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[웨이트장갑 트레이닝 글러브 2중 밴드 그레이 L]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>23000</fixedPrice>
+    <costPrice>17730</costPrice>
+    <goodsPrice>23000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/5/17/1715924300667zlt1xmz5op_f41egnrr2.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/5/17/1715924300667zlt1xmz5op_f41egnrr2.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/5/17/1715924300667zlt1xmz5op_f41egnrr2.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<div class='center'><img src='http://img.elrufun.co.kr/elrufun_shopping_mall/iwanna/20210702_js_21.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[아이워너]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="23">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02908421]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[케이블 타이건 SB-218 타이 커터]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>42800</fixedPrice>
+    <costPrice>32950</costPrice>
+    <goodsPrice>42800</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/13/1765587992121ojiq86mrtjlpxy87u3a2.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/13/1765587992121ojiq86mrtjlpxy87u3a2.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/12/13/1765587992121ojiq86mrtjlpxy87u3a2.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='https://jamesya.cafe24.com/vt/common_img/top_01.jpg'></p><br><p align='center'><img src='https://jamesya.cafe24.com/vt/ymvt_387497.jpg'></p><br><p align='center'><img src='https://jamesya.cafe24.com/vt/common_img/bottom_01.jpg'></p><br>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[세신]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="24">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02977025]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오피스 문구 유니아트 1000 꽃 손거울 8잎_8x13cm]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>1000</fixedPrice>
+    <costPrice>766</costPrice>
+    <goodsPrice>1000</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/24/1774336313124k4c2601tq93itt1dn81s.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/24/1774336313124k4c2601tq93itt1dn81s.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/3/24/1774336313124k4c2601tq93itt1dn81s.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://jhmungu.hgodo.com/jhd/그리기꽃손거울_s.jpg'></p></br></center><center><img src='http://lullu.godohosting.com/product/jhmg_1.jpg'></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[유니아트]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="25">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>46</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01259405]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오일작기 20 TON (SM-OJ20)]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>123300</fixedPrice>
+    <costPrice>94833</costPrice>
+    <goodsPrice>123300</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/24/1577169081706xv_a31yf1zslytg47hxs.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/24/1577169081706xv_a31yf1zslytg47hxs.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/24/1577169081706xv_a31yf1zslytg47hxs.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://domeatoz.com/2019/12/24/1577169081706xv_a31yf1zslytg47hxs.jpg'></p></center><div style='text-align: center;' align='center'><div style='text-align: center;' align='center'><img src='http://gong9nara.hgodo.com/s_image/102-3381.jpg' border='0'></div><hr style='text-align: center; margin-bottom: 50px; height: 0px; border-top: 1px solid rgb(238, 238, 238); box-sizing: content-box; display: block;'><h5 style='text-align: center; margin-bottom: 10px; font-weight: 400; margin-top: 0px; color: rgb(51, 51, 51); font-size: 18px; line-height: 1.1;'>원산지</h5><div style='text-align: center;' align='center'>- 원산지 : 다국적</div><div style='text-align: center;' align='center'>- 영문명 : HYDRAULIC BOTTLE JACK</div><div style='text-align: center;' align='center'>&nbsp;<img src='http://gong9nara.hgodo.com/notice/notice_A.jpg' border='0'></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[스마토 작기]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="26">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02828218]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[예홈카 휴대폰 핸드폰 자동차 차량용 태블릿 거치대]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>36200</fixedPrice>
+    <costPrice>27810</costPrice>
+    <goodsPrice>36200</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/4/1756970920373c72wfzh6vn9n2kpe6_yd.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/4/1756970920373c72wfzh6vn9n2kpe6_yd.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/4/1756970920373c72wfzh6vn9n2kpe6_yd.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[마그네틱 폰홀더]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[
+<center><img border='0' alt='' src='http://www.yyehom.com/injung/240722_02.jpg' /><p>&nbsp;</p></center>
+<br />
+
+
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[예홈]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="27">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02858445]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[7day 이중 내열 유리 맥주컵 400ml 온도유지 글라스]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>22400</fixedPrice>
+    <costPrice>17240</costPrice>
+    <goodsPrice>22400</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/26/17219988432569cm99bv413e8uufv0_jf.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/26/17219988432569cm99bv413e8uufv0_jf.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/26/17219988432569cm99bv413e8uufv0_jf.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|아시아|중국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://gi.esmplus.com/dudwnrjdwn/dome/7daybrand.jpg' /></center><br /><br /><center><img src='https://gi.esmplus.com/dudwnrjdwn/dome/top.jpg' /></center><br /><br /><center><img src='https://gi.esmplus.com/dudwnrjdwn/dome/gong.jpg' /></center><br /><br /><center><img src='https://gi.esmplus.com/dudwnrjdwn/evt8_img/GTM24891.jpg' /></center><br /><br /><center><img src='https://gi.esmplus.com/dudwnrjdwn/dome/tail.jpg' /></center><br /><br />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[나의 잡화점]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="28">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ00877631]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[별비트소켓(홀형) 1/2inchXT40-80L]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>8100</fixedPrice>
+    <costPrice>6217</costPrice>
+    <goodsPrice>8100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/1577353304854ff4zlxio_q2a_5gjps1i.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/1577353304854ff4zlxio_q2a_5gjps1i.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2019/12/26/1577353304854ff4zlxio_q2a_5gjps1i.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><p><img src='https://domeatoz.com/2019/12/26/1577353304854ff4zlxio_q2a_5gjps1i.jpg'></p></center><div style='text-align: center;' align='center'><img src='http://gong9nara.hgodo.com/s_image/200-5115.jpg' border='0'><hr style='margin-bottom: 50px ;height:0;border-top: 1px solid #eee;box-sizing: content-box;display: block;'></hr><h5 style='margin-bottom: 10px;font-weight: 400;margin-top: 0;color: #333;font-size: 18px;line-height: 1.1;'>원산지</h5>- 원산지 : 대만<br />- 영문명 : TORX TAMPERPROOF BIT SOCKET <img src='http://gong9nara.hgodo.com/notice/notice_A.jpg' border='0'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[지니어스]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="29">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02383022]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오케이 와사비분말A 90프로 250g]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>9100</fixedPrice>
+    <costPrice>6975</costPrice>
+    <goodsPrice>9100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/12/1720776132755x_by1m4vcx3_srnhnwgs.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/12/1720776132755x_by1m4vcx3_srnhnwgs.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/7/12/1720776132755x_by1m4vcx3_srnhnwgs.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세페이지 참조]]></originNm>
+    <goodsDescription><![CDATA[<center><img src=http://gfoodninea.speedgabia.com/foodnine/goods/Foodnine_Top_03.jpg><br><img src=http://gfoodninea.speedgabia.com/foodnine/goods/Foodnine_Parcel_Info_040.jpg><br><br><br><b><font size=5>-&nbsp;<font color=green>오케이 와사비분말A 90% 250g</font>&nbsp;&nbsp;</b>상품<b>&nbsp;&nbsp;<font color=red>[</font>&nbsp;<font color=green>1개</font>&nbsp;<font color=red>]</font>&nbsp;</b> 단위로 판매하는 상품입니다&nbsp;<b>-</font></b><br><br><br><img src=http://gfoodninea.speedgabia.com/foodnine/list/s151449_1.jpg><br><br><img src=http://gfoodninea.speedgabia.com/foodnine/list/s151449_2.jpg><br><br><img src=http://gfoodninea.speedgabia.com/foodnine/list/s151449_3.jpg>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[보원식품]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="30">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02630114]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[타이어펑크 수리키트x5개 빵꾸 자동차펑크 타이어빵꾸]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>21500</fixedPrice>
+    <costPrice>16530</costPrice>
+    <goodsPrice>21500</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/20/1737342189625at9tzoe_3tpuw444yv7z.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/20/1737342189625at9tzoe_3tpuw444yv7z.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/1/20/1737342189625at9tzoe_3tpuw444yv7z.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://jnjcorp.diskn.com/MT/MT_up.jpg' /><br><br><center><img src='http://jnjcorp.diskn.com/MT/D/MT4283578_D00.jpg'></center><br><br><img src='https://jnjcorp.diskn.com/MT/MT_bottom.jpg' /></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[코텍]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="31">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01671988]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[벡셀 국산 알카라인건전지 AAA 2알 LR03]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>1400</fixedPrice>
+    <costPrice>1090</costPrice>
+    <goodsPrice>1400</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/15/1694762484837xt2a3gdah1gkt2cp9x2h.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/15/1694762484837xt2a3gdah1gkt2cp9x2h.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/9/15/1694762484837xt2a3gdah1gkt2cp9x2h.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내]]></originNm>
+    <goodsDescription><![CDATA[<img src='http://gi.esmplus.com/365plus/pdusdc5/pd4233/pd4233.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[(주)벡셀]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>  
+    <soldOutFl>n</soldOutFl> 
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
