@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>y</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02814332]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오다리 신발 아치 깔창 1세트]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>900</fixedPrice>
+    <costPrice>657</costPrice>
+    <goodsPrice>900</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/17/1755419919690oudes6e__ro_snwkxfnh.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/17/1755419919690oudes6e__ro_snwkxfnh.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/17/1755419919690oudes6e__ro_snwkxfnh.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[중국]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://gi.esmplus.com/sk103105/25%EB%85%84%202%EC%9B%94%EB%B6%80%ED%84%B010500-1%EB%B6%80%ED%84%B0%20%EC%8B%A0%EC%83%81%ED%92%88/10632-1%EC%98%A4%EB%8B%A4%EB%A6%AC%20%EC%95%84%EC%B9%98%20%EA%B9%94%EC%B0%BD%201%EC%84%B8%ED%8A%B8/001.jpg'><br>
+<img src='https://gi.esmplus.com/sk103105/25%EB%85%84%202%EC%9B%94%EB%B6%80%ED%84%B010500-1%EB%B6%80%ED%84%B0%20%EC%8B%A0%EC%83%81%ED%92%88/10632-1%EC%98%A4%EB%8B%A4%EB%A6%AC%20%EC%95%84%EC%B9%98%20%EA%B9%94%EC%B0%BD%201%EC%84%B8%ED%8A%B8/002.jpg'><br>
+<img src='https://gi.esmplus.com/sk103105/25%EB%85%84%202%EC%9B%94%EB%B6%80%ED%84%B010500-1%EB%B6%80%ED%84%B0%20%EC%8B%A0%EC%83%81%ED%92%88/10632-1%EC%98%A4%EB%8B%A4%EB%A6%AC%20%EC%95%84%EC%B9%98%20%EA%B9%94%EC%B0%BD%201%EC%84%B8%ED%8A%B8/003.jpg'><br>
+<img src='https://gi.esmplus.com/sk103105/25%EB%85%84%202%EC%9B%94%EB%B6%80%ED%84%B010500-1%EB%B6%80%ED%84%B0%20%EC%8B%A0%EC%83%81%ED%92%88/10632-1%EC%98%A4%EB%8B%A4%EB%A6%AC%20%EC%95%84%EC%B9%98%20%EA%B9%94%EC%B0%BD%201%EC%84%B8%ED%8A%B8/004.jpg'>
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[킹트레이드]]></makerNm>
+    <scmNo>1</scmNo>
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>y</stockFl>
+    <stockCnt>999</stockCnt>
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
