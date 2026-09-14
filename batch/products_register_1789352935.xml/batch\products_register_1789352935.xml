@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ01559542]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[양면 양쪽 네임펜 1.0mm+0.4mm 색상 블루 12개 1세트]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>7100</fixedPrice>
+    <costPrice>5464</costPrice>
+    <goodsPrice>7100</goodsPrice>
+    <!-- 💡 수정: supplierCd -> purchaseNo 로 변경 -->
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/23/169277489832059vhgzian9gp5gb83g2_.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/23/169277489832059vhgzian9gp5gb83g2_.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/8/23/169277489832059vhgzian9gp5gb83g2_.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[*제품특징-부드러운 필기감-방탄 PC소재로 쉽게 부러지지않음-선명하고 깔끔한 필기 가능-다양한 표면에 선명하게 마킹되는 유성펜-다양한 컬러로 다채로운 표현 가능<br>*제품용도-다양한 표면에 선명하게 사용할 수 있는 펜 <br>*주의사항-용도 외에는 사용하지 마십시오(특히,피부 분장으로 사용 금지)-유아의 손에 닿지 않는 곳에 보관-화기가 있는 곳에 가까이 두지 마십시오<br><br><br><center><p><img src='https://vitsonimg.co.kr/images/productsNew/0/투네임펜 3색.jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/0/투네임펜-3색_상세페이지_01.jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/0/투네임펜-3색_상세페이지_02.jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/0/투네임펜-3색_상세페이지_03.jpg'></p>&nbsp;</center><center><p><img src='https://vitsonimg.co.kr/images/productsNew/0/투네임펜-3색_상세페이지_04.jpg'></p>&nbsp;</center><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 30px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>제원구분</td><td style='width: 65%;'>제원정보</td></tr><tr style='height: 35px;'><td>국적</td><td>한국</td></tr><tr style='height: 35px;'><td>사이즈_외형(mm)</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>사이즈_타공(mm)</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>재질</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>인증번호</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>모델명</td><td>null</td></tr><tr style='height: 35px;'><td>유통기한</td><td>null</td></tr><tr style='height: 35px;'><td>A/S 기간</td><td>null</td></tr><tr style='height: 35px;'><td>기타1</td><td>필기선(mm):1.0</td></tr><tr style='height: 35px;'><td>기타2</td><td>색상:블루</td></tr><tr style='height: 35px;'><td>기타3</td><td>null</td></tr><tr style='height: 35px;'><td>기타4</td><td>null</td></tr></tbody></table>&nbsp;</center><br><center><table style='border-collapse: collapse; width: 90%; text-align: center;  margin-bottom: 50px;' border='1'><tbody><tr style='height: 40px; background: silver'><td style='width: 35%;'>고시구분</td><td style='width: 65%;'>고시정보</td></tr><tr style='height: 35px;'><td>품명 및 모델명</td><td>투 네임펜/1.0mm+0.4mm/블루(1각/12EA)</td></tr><tr style='height: 35px;'><td>인증</td><td>제원 및 간단설명 참고</td></tr><tr style='height: 35px;'><td>제조국</td><td>국산</td></tr><tr style='height: 35px;'><td>제조</td><td>라인플러스</td></tr><tr style='height: 35px;'><td>A/S 책임자/전화번호</td><td>일신 비츠온 AS 1588-8970</td></tr></tbody></table></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[라인플러스]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>y</stockFl>  
+    <soldOutFl>n</soldOutFl>  <!-- 💡 수정: 품절 상태 동적 반영 -->
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
