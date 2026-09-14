@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>50</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02834275]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[가구산책 세라믹 6인용 원목식탁 2000 RD320]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>566700</fixedPrice>
+    <costPrice>435910</costPrice>
+    <goodsPrice>566700</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/18/1758184921445_eajmddgilktvzotp4kx.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/18/1758184921445_eajmddgilktvzotp4kx.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/9/18/1758184921445_eajmddgilktvzotp4kx.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[샌드베이지]]></optionValue1>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<div align=center><br><br><img src=https://gi.esmplus.com/onsk15/stroll.jpg><br><br /><img src='https://hit0822.speedgabia.com/CZ2/4.jpg' border='0'><br><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/5.jpg' border='0'><br><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/A_1.jpg' border='0'><br><img src='https://store.img11.co.kr/39375934/a373ddd7-29fb-467c-906b-0438c602b82d_1703665957312.jpg' alt='B_1.jpg' /><br /><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/D_1_01.jpg' border='0'><br><br><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/D_1_03.jpg' border='0'><br><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/D_1_04.jpg' border='0'><br><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/D_1_05.jpg' border='0'><br><img src='https://store.img11.co.kr/39375934/27cf6804-52c0-45c5-be81-566ee4b88f75_1703665957749.jpg' alt='D_1_09.jpg' /><br /><img src='https://hit0822.speedgabia.com/CZ2/CZ240/CZ2401/E_1_01.jpg' border='0'><br><img src='https://store.img11.co.kr/39375934/a69ab16e-636b-4838-ae26-c792b0224ca0_1703665957926.jpg' alt='E_1_02.jpg' /><br /><br><img src=http://gi.esmplus.com/onsk15/detail/notice.jpg><br></div>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[이와샘협력사]]></makerNm>
+    <scmNo>1</scmNo>
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>y</stockFl>
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
