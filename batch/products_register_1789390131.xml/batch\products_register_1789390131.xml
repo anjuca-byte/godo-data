@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+        <cateCd>104</cateCd>
+        <allCateCd><![CDATA[104]]></allCateCd>
+        <deliverySno>44</deliverySno>
+        <goodsDisplayFl>y</goodsDisplayFl>
+        <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+        <goodsDiscountFl>n</goodsDiscountFl>
+        <goodsSellFl>y</goodsSellFl>
+        <goodsSellMobileFl>y</goodsSellMobileFl>
+        <goodsState>n</goodsState>
+        <goodsPermission>all</goodsPermission>
+        <goodsCd><![CDATA[AZ01232390]]></goodsCd>
+        <goodsNmFl>d</goodsNmFl>
+        <goodsNm><![CDATA[IR Advance C5035/NPG-46 노랑/재생토너]]></goodsNm>
+        <imageStorage>url</imageStorage>
+        <fixedPrice>127800</fixedPrice>
+        <costPrice>98310</costPrice>
+        <goodsPrice>127800</goodsPrice>
+        <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+        <mainImageData idx="1"><![CDATA[https://domeatoz.com/2023/1/6/1672974091514yhrphq87s3kc1gqzse12.jpg]]></mainImageData>
+        <listImageData idx="1"><![CDATA[https://domeatoz.com/2023/1/6/1672974091514yhrphq87s3kc1gqzse12.jpg]]></listImageData>
+        <detailImageData idx="1"><![CDATA[https://domeatoz.com/2023/1/6/1672974091514yhrphq87s3kc1gqzse12.jpg]]></detailImageData>
+        <mileageFl>c</mileageFl>
+        <optionFl>n</optionFl>
+        
+        <originNm><![CDATA[기타]]></originNm>
+        <goodsDescription><![CDATA[<center><table style='width: 760px; margin-bottom: 50px;'><tbody><tr><td style='width: 200px; border: 1px solid #ccc; text-align: center; height: 35px; font-size: 15px; line-height: 15px; background: rgb(221, 221, 221);'>구분</td><td style='width: 560px; border: 1px solid #ccc; padding: 0 10px; font-size: 15px; word-break:break-all; line-height: 25px;'>노랑 / 재생토너</td></tr> <tr><td style='width: 200px; border: 1px solid #ccc; text-align: center; height: 35px; font-size: 15px; line-height: 15px; background: rgb(221, 221, 221);'>상품명</td><td style='width: 560px; border: 1px solid #ccc; padding: 0 10px; font-size: 15px; word-break:break-all; line-height: 25px;'>IR Advance C5035/NPG-46 노랑/재생토너 </td></tr> <tr><td style='width: 200px; border: 1px solid #ccc; text-align: center; height: 35px; font-size: 15px; line-height: 15px; background: rgb(221, 221, 221);'>사용기종</td><td style='width: 560px; border: 1px solid #ccc; padding: 0 10px; font-size: 15px; word-break:break-all; line-height: 25px;'>캐논 IR Advance C5035</td></tr> <tr><td style='width: 200px; border: 1px solid #ccc; text-align: center; height: 35px; font-size: 15px; line-height: 15px; background: rgb(221, 221, 221);'>자가검사(승인번호)</td><td style='width: 560px; border: 1px solid #ccc; padding: 0 10px; font-size: 15px; word-break:break-all; line-height: 25px;'>출고박스(별도표기)</td></tr> <tr><td style='width: 200px; border: 1px solid #ccc; text-align: center; height: 35px; font-size: 15px; line-height: 15px; background: rgb(221, 221, 221);'>기본정보</td><td style='width: 560px; border: 1px solid #ccc; padding: 0 10px; font-size: 15px; word-break:break-all; line-height: 25px;'>/재생토너/27,000매</td></tr> </tbody></table><img src='https://gong9nara.hgodo.com/ss_image/SS_2.jpg'></center>]]></goodsDescription>
+        <goodsDescriptionFl>html</goodsDescriptionFl>
+        <makerNm><![CDATA[inkfactory]]></makerNm>
+        <scmNo>1</scmNo> 
+        <taxFreeFl>n</taxFreeFl>
+        <stockFl>y</stockFl>
+        <soldOutFl>n</soldOutFl>
+        <restockFl>n</restockFl>
+        <optionTextFl>n</optionTextFl>
+        <addGoodsFl>n</addGoodsFl>
+        <relationFl>n</relationFl>
+        <imgDetailViewFl>y</imgDetailViewFl>
+        <externalVideoFl>n</externalVideoFl>
+        <detailInfoDelivery>002001</detailInfoDelivery>
+        <detailInfoAS>003001</detailInfoAS>
+        <detailInfoRefund>004001</detailInfoRefund>
+        <detailInfoExchange>005001</detailInfoExchange>
+        <payLimitFl>n</payLimitFl>
+        </goods_data>
+    </data>
