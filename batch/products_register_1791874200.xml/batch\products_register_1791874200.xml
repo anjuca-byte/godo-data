@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <data>
+    <goods_data idx="1">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881894]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[흑마늘농축액 20kg 과일농축액 과일추출액 야채]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>1750100</fixedPrice>
+    <costPrice>1206980</costPrice>
+    <goodsPrice>1750100</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851795833bf71msf7xs286b1wqo4s.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851795833bf71msf7xs286b1wqo4s.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851795833bf71msf7xs286b1wqo4s.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/conc_detail.jpg' />
+<img src='https://ai.esmplus.com/ntrade0070/foodRM/clq/CTL370.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="2">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881929]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오렌지농축분말 100g 체험용 과일농축분말 과일추출 야채]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>8800</fixedPrice>
+    <costPrice>6044</costPrice>
+    <goodsPrice>8800</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517797749osiqbs9j1f3x_syf5ov.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517797749osiqbs9j1f3x_syf5ov.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517797749osiqbs9j1f3x_syf5ov.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[스페인]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PC064.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="3">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881771]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[호박추출분말 1kg 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>46600</fixedPrice>
+    <costPrice>32130</costPrice>
+    <goodsPrice>46600</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851862830nb4mplcqvj_0nm9u38gx.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851862830nb4mplcqvj_0nm9u38gx.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851862830nb4mplcqvj_0nm9u38gx.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE263.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="4">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881553]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[노니추출분말 1kg 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>41800</fixedPrice>
+    <costPrice>28800</costPrice>
+    <goodsPrice>41800</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851963998nbkulj4rs_rty_6s8ond.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851963998nbkulj4rs_rty_6s8ond.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851963998nbkulj4rs_rty_6s8ond.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[인도네시아]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE035.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="5">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881711]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[오미자추출분말 1kg 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>56200</fixedPrice>
+    <costPrice>38780</costPrice>
+    <goodsPrice>56200</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522446255ljvjjf0upj5ajbo5bcz.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522446255ljvjjf0upj5ajbo5bcz.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522446255ljvjjf0upj5ajbo5bcz.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE183.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="6">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881585]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[갈근추출분말 20kg 1box 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>692400</fixedPrice>
+    <costPrice>477500</costPrice>
+    <goodsPrice>692400</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517150992o15wd06j8bahm9m583r.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517150992o15wd06j8bahm9m583r.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888517150992o15wd06j8bahm9m583r.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE008.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="7">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02569083]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[허벌랜드면역부스트구미 2.2g x 60구미 영양제 건강 식품]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>41100</fixedPrice>
+    <costPrice>28360</costPrice>
+    <goodsPrice>41100</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/173045073395476ofxas2eg0jxe88aw54.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/173045073395476ofxas2eg0jxe88aw54.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/173045073395476ofxas2eg0jxe88aw54.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/moremoll/24-10%20costco/24-10%20costco%203%20%20%EA%B1%B4%EA%B0%95%EC%8B%9D%ED%92%881/herbaLand_boostgummies_21990.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[(주)헬스앤뉴트리션]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="8">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02688601]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[올인원 이뮨샷 액상20ml+캡슐500mg+정제700mg 14입 건기식 영양제 보조제]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>43700</fixedPrice>
+    <costPrice>30160</costPrice>
+    <goodsPrice>43700</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/18/17422649463236oqil80ml66pp40g4f20.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/18/17422649463236oqil80ml66pp40g4f20.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/3/18/17422649463236oqil80ml66pp40g4f20.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[대한민국]]></originNm>
+    <goodsDescription><![CDATA[<p align='center'><img src='https://gi.esmplus.com/fmsi1101/food/%EB%B0%B0%EB%84%88/domeFoodNotice.jpg' /><br><img src='https://ai.esmplus.com/champjs/4PL/4PL_YJ_04294_2.JPG'><br><img src='https://gi.esmplus.com/fmsi1101/food/%EB%B0%B0%EB%84%88/dome_bottom.jpg' /></p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[뉴트리원]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="9">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02537486]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[락토핏 골드 2g x 50포 4통 여성유산균 임산부유산균 배변활동]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>88300</fixedPrice>
+    <costPrice>60880</costPrice>
+    <goodsPrice>88300</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/22/1782105900156v4vnezapvdimyqvps2fo.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/22/1782105900156v4vnezapvdimyqvps2fo.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/22/1782105900156v4vnezapvdimyqvps2fo.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국내|충남|예산군]]></originNm>
+    <goodsDescription><![CDATA[
+<div style='text-align: center'><img alt='' src='https://ai.esmplus.com/par486par/2022/%EC%A2%85%EA%B7%BC%EB%8B%B9/%EC%83%9D%EC%9C%A0%EC%82%B0%EA%B7%A0%20%EB%9D%BD%ED%86%A0%ED%95%8F%20%EA%B3%A8%EB%93%9C/%EB%9D%BD%ED%86%A0%ED%95%8F_%EC%83%81%EC%84%B8.png' /></div><br /><br /><center>&nbsp;</center>
+<br />
+
+
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[종근당건강]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="10">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02566745]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[종합영양제 고함량멀티비타민 멀티비타민 미네랄 앤미네랄 K2 종합추천]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>32900</fixedPrice>
+    <costPrice>22660</costPrice>
+    <goodsPrice>32900</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/10/31/1730342233818ob2rl58j17ipaso8xgf2.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/10/31/1730342233818ob2rl58j17ipaso8xgf2.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/10/31/1730342233818ob2rl58j17ipaso8xgf2.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='https://mscoop1.cafe24.com/img2/b20225.jpg'><p> </p></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[협력업체]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="11">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881592]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[깔라만시주스분말 20kg 1box 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>939400</fixedPrice>
+    <costPrice>647850</costPrice>
+    <goodsPrice>939400</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522628922n8twf4762x3h3mtlydk.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522628922n8twf4762x3h3mtlydk.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888522628922n8twf4762x3h3mtlydk.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[베트남]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PJ024.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="12">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02882081]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[병풀추출분말 1kg 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>41800</fixedPrice>
+    <costPrice>28800</costPrice>
+    <goodsPrice>41800</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888519708286f6gcbrev3n2pu73lk91.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888519708286f6gcbrev3n2pu73lk91.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/17888519708286f6gcbrev3n2pu73lk91.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[인도네시아]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE118.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="13">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881922]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[유자과즙분말 100g 체험용 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>21600</fixedPrice>
+    <costPrice>14880</costPrice>
+    <goodsPrice>21600</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851782268vyb7hfmt7uk4xaksxbex.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851782268vyb7hfmt7uk4xaksxbex.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851782268vyb7hfmt7uk4xaksxbex.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PJ007.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="14">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881828]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[무농축액 20kg 과일농축액 과일추출액 야채]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>346200</fixedPrice>
+    <costPrice>238750</costPrice>
+    <goodsPrice>346200</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851888299tot1mmelwuja3kuggfi5.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851888299tot1mmelwuja3kuggfi5.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851888299tot1mmelwuja3kuggfi5.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[국산]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/conc_detail.jpg' />
+<img src='https://ai.esmplus.com/ntrade0070/foodRM/clq/CTL144.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="15">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03026701]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[고려은단 비타민C 쏠라C 분말스틱 60포X1개 가루비타민C 키즈 어린이]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>21400</fixedPrice>
+    <costPrice>14780</costPrice>
+    <goodsPrice>21400</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/9/1780970593542n3a1f3l3z3tcc48ym7w9.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/9/1780970593542n3a1f3l3z3tcc48ym7w9.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/9/1780970593542n3a1f3l3z3tcc48ym7w9.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[해외|북아메리카|미국]]></originNm>
+    <goodsDescription><![CDATA[
+<p style='text-align: center;'><img src='https://ai.esmplus.com/vitahouse1/2026/%EA%B3%A0%EB%A0%A4%EC%9D%80%EB%8B%A8/%EA%B3%A0%EB%A0%A4%EC%9D%80%EB%8B%A8%20%EB%B9%84%ED%83%80%EB%AF%BCC%20%EC%8F%A0%EB%9D%BCC%20%EB%B6%84%EB%A7%90%EC%8A%A4%ED%8B%B1%2060%ED%8F%AC/%EA%B3%A0%EB%A0%A4%EC%9D%80%EB%8B%A8%20%EB%B9%84%ED%83%80%EB%AF%BCC%20%EC%8F%A0%EB%9D%BCC%20%EB%B6%84%EB%A7%90%EC%8A%A4%ED%8B%B1%2060%ED%8F%AC_%EC%83%81%EC%84%B8.jpg' /></p>
+
+<br />
+
+
+]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[고려은단]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="16">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ03069006]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[블랙2p CNS(1+1) 발바닥각질제거 발바닥 발각질제거 발갈이 욕실용품 관리 풋파일]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>7500</fixedPrice>
+    <costPrice>5157</costPrice>
+    <goodsPrice>7500</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/27/1782563136726_aijoyecpr6hljhev9fq.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/27/1782563136726_aijoyecpr6hljhev9fq.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/6/27/1782563136726_aijoyecpr6hljhev9fq.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>y</optionFl>
+    <optionData idx="0">
+    <optionNo>1</optionNo>
+    <optionValue1><![CDATA[본상품]]></optionValue1><optionValue2><![CDATA[본품]]></optionValue2>
+    <optionPrice>0</optionPrice>
+    <optionViewFl>y</optionViewFl>
+    <optionSellFl>y</optionSellFl>
+    <optionCode><![CDATA[]]></optionCode>
+    <stockCnt>999</stockCnt>
+    </optionData>
+    <originNm><![CDATA[해외=아시아=중국]]></originNm>
+    <goodsDescription><![CDATA[<center><p align='center'><img src='https://haisai.ownerclan.com/631/detail/10643.jpg' width=860><br></center>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[중국]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="17">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02818812]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[과일즙 국산 대용량 스틱타입 사양벌꿀 도라지배즙 꿀담은도라지배스틱100포 푸룬주스 장어즙 오미자청]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>51400</fixedPrice>
+    <costPrice>35470</costPrice>
+    <goodsPrice>51400</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/29/1756475533144quni8fsxt7ybuohc6tge.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/29/1756475533144quni8fsxt7ybuohc6tge.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2025/8/29/1756475533144quni8fsxt7ybuohc6tge.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[기타]]></originNm>
+    <goodsDescription><![CDATA[<center><img src='http://mskorea3118.cafe24.com/21670.jpg'><p> </p></center><br><p align='center' style='font-size: 12px; color: #777777; display: block; margin: 20px 0;'>본 제품을 구매하시면 원활한 배송을 위해 꼭 필요한 고객님의 개인정보를 (성함, 주소, 전화번호 등) 택배사 및 제 3업체에서 이용하는 것에 동의하시는 것으로 간주됩니다.<br> 개인정보는 배송 외의 용도로는 절대 사용되지 않으니 안심하시기 바랍니다. 안전하게 배송해 드리겠습니다.</p>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[협력업체]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="18">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881851]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[스위트자몽농축액 20kg 과일농축액 과일추출액 야채]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>420700</fixedPrice>
+    <costPrice>290130</costPrice>
+    <goodsPrice>420700</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851832707mfb75aje5qro3nsffpii.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851832707mfb75aje5qro3nsffpii.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851832707mfb75aje5qro3nsffpii.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[이스라엘]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/conc_detail.jpg' />
+<img src='https://ai.esmplus.com/ntrade0070/foodRM/clq/CTL234.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="19">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>43</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02881778]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[캐모마일추출분말 20kg 과일농축분말 과일추출 야채농축]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>766900</fixedPrice>
+    <costPrice>528880</costPrice>
+    <goodsPrice>766900</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851716931dkjpr29en8bsw5c1we61.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851716931dkjpr29en8bsw5c1we61.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2026/9/8/1788851716931dkjpr29en8bsw5c1we61.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[크로아티아]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/ntrade0070/hcsfood_detail/pwd_detail.jpg' /><br/><img src='https://ai.esmplus.com/ntrade0070/foodRM/pwd/PE227.jpg' />]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[CESIN]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data><goods_data idx="20">
+    <cateCd>104</cateCd>
+    <allCateCd><![CDATA[104]]></allCateCd>
+    <deliverySno>44</deliverySno>
+    <goodsDisplayFl>y</goodsDisplayFl>
+    <goodsDisplayMobileFl>y</goodsDisplayMobileFl>
+    <goodsDiscountFl>n</goodsDiscountFl>
+    <goodsSellFl>y</goodsSellFl>
+    <goodsSellMobileFl>y</goodsSellMobileFl>
+    <goodsState>n</goodsState>
+    <goodsPermission>all</goodsPermission>
+    <goodsCd><![CDATA[AZ02568970]]></goodsCd>
+    <goodsNmFl>d</goodsNmFl>
+    <goodsNm><![CDATA[대웅제약 임팩타뮨 84정 건강 영양제 비타민]]></goodsNm>
+    <imageStorage>url</imageStorage>
+    <fixedPrice>61800</fixedPrice>
+    <costPrice>42590</costPrice>
+    <goodsPrice>61800</goodsPrice>
+    <purchaseNo><![CDATA[도매아토즈]]></purchaseNo>
+    <mainImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/1730442079033nsjxr4nmepp4dizyg4j0.jpg]]></mainImageData>
+    <listImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/1730442079033nsjxr4nmepp4dizyg4j0.jpg]]></listImageData>
+    <detailImageData idx="1"><![CDATA[https://domeatoz.com/2024/11/1/1730442079033nsjxr4nmepp4dizyg4j0.jpg]]></detailImageData>
+    <mileageFl>c</mileageFl>
+    <optionFl>n</optionFl>
+    
+    <originNm><![CDATA[상세설명 참조]]></originNm>
+    <goodsDescription><![CDATA[<img src='https://ai.esmplus.com/moremoll/24-10%20costco/24-10%20costco%203%20%20%EA%B1%B4%EA%B0%95%EC%8B%9D%ED%92%881/daewoong_impactamune_32990.jpg'>]]></goodsDescription>
+    <goodsDescriptionFl>html</goodsDescriptionFl>
+    <makerNm><![CDATA[대웅제약]]></makerNm>
+    <scmNo>1</scmNo> 
+    <taxFreeFl>n</taxFreeFl>
+    <stockFl>n</stockFl>      
+    <soldOutFl>n</soldOutFl>
+    <restockFl>n</restockFl>
+    <optionTextFl>n</optionTextFl>
+    <addGoodsFl>n</addGoodsFl>
+    <relationFl>n</relationFl>
+    <imgDetailViewFl>y</imgDetailViewFl>
+    <externalVideoFl>n</externalVideoFl>
+    <detailInfoDelivery>002001</detailInfoDelivery>
+    <detailInfoAS>003001</detailInfoAS>
+    <detailInfoRefund>004001</detailInfoRefund>
+    <detailInfoExchange>005001</detailInfoExchange>
+    <payLimitFl>n</payLimitFl>
+    </goods_data>
+    </data>
